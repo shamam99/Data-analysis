@@ -1,0 +1,2649 @@
+Year,State,Total,Type,By Weapon
+1991,National,21676,Firearms,14373
+1991,National,21676,Cutting,3430
+1991,National,21676,Unarmed,1202
+1991,National,21676,Other,2671
+1992,National,22716,Firearms,15489
+1992,National,22716,Cutting,3296
+1992,National,22716,Unarmed,1131
+1992,National,22716,Other,2800
+1993,National,23180,Firearms,16136
+1993,National,23180,Cutting,2967
+1993,National,23180,Unarmed,1151
+1993,National,23180,Other,2926
+1994,National,22084,Firearms,15463
+1994,National,22084,Cutting,2802
+1994,National,22084,Unarmed,1165
+1994,National,22084,Other,2654
+1995,National,20232,Firearms,13790
+1995,National,20232,Cutting,2557
+1995,National,20232,Unarmed,1201
+1995,National,20232,Other,2684
+1996,National,16967,Firearms,11453
+1996,National,16967,Cutting,2324
+1996,National,16967,Unarmed,1037
+1996,National,16967,Other,2153
+1997,National,15837,Firearms,10729
+1997,National,15837,Cutting,2055
+1997,National,15837,Unarmed,1010
+1997,National,15837,Other,2043
+1998,National,14088,Firearms,9143
+1998,National,14088,Cutting,1877
+1998,National,14088,Unarmed,949
+1998,National,14088,Other,2119
+1999,National,12658,Firearms,8259
+1999,National,12658,Cutting,1667
+1999,National,12658,Other,1881
+1999,National,12658,Unarmed,851
+2000,National,12943,Firearms,8493
+2000,National,12943,Cutting,1743
+2000,National,12943,Other,1815
+2000,National,12943,Unarmed,892
+2001,National,13752,Firearms,8719
+2001,National,13752,Cutting,1796
+2001,National,13752,Other,2313
+2001,National,13752,Unarmed,924
+2002,National,14054,Firearms,9369
+2002,National,14054,Cutting,1767
+2002,National,14054,Other,1989
+2002,National,14054,Unarmed,929
+2003,National,14408,Firearms,9638
+2003,National,14408,Cutting,1816
+2003,National,14408,Other,2010
+2003,National,14408,Unarmed,944
+2004,Alabama,247,Firearms,158
+2004,Alabama,247,Cutting,24
+2004,Alabama,247,Other,44
+2004,Alabama,247,Unarmed,21
+2004,Alaska,37,Firearms,17
+2004,Alaska,37,Cutting,4
+2004,Alaska,37,Other,12
+2004,Alaska,37,Unarmed,4
+2004,Arizona,409,Firearms,295
+2004,Arizona,409,Cutting,44
+2004,Arizona,409,Other,45
+2004,Arizona,409,Unarmed,25
+2004,Arkansas,152,Firearms,95
+2004,Arkansas,152,Cutting,19
+2004,Arkansas,152,Other,31
+2004,Arkansas,152,Unarmed,7
+2004,California,2391,Firearms,1724
+2004,California,2391,Cutting,281
+2004,California,2391,Other,242
+2004,California,2391,Unarmed,144
+2004,Colorado,199,Firearms,116
+2004,Colorado,199,Cutting,32
+2004,Colorado,199,Other,17
+2004,Colorado,199,Unarmed,34
+2004,Connecticut,86,Firearms,47
+2004,Connecticut,86,Cutting,16
+2004,Connecticut,86,Other,18
+2004,Connecticut,86,Unarmed,5
+2004,Delaware,14,Firearms,9
+2004,Delaware,14,Cutting,3
+2004,Delaware,14,Other,1
+2004,Delaware,14,Unarmed,1
+2004,Georgia,528,Firearms,342
+2004,Georgia,528,Cutting,70
+2004,Georgia,528,Other,69
+2004,Georgia,528,Unarmed,47
+2004,Hawaii,31,Firearms,6
+2004,Hawaii,31,Cutting,13
+2004,Hawaii,31,Other,5
+2004,Hawaii,31,Unarmed,7
+2004,Idaho,30,Firearms,17
+2004,Idaho,30,Cutting,5
+2004,Idaho,30,Other,6
+2004,Idaho,30,Unarmed,2
+2004,Illinois,448,Firearms,337
+2004,Illinois,448,Cutting,37
+2004,Illinois,448,Other,64
+2004,Illinois,448,Unarmed,10
+2004,Indiana,299,Firearms,208
+2004,Indiana,299,Cutting,37
+2004,Indiana,299,Other,39
+2004,Indiana,299,Unarmed,15
+2004,Iowa,40,Firearms,19
+2004,Iowa,40,Cutting,9
+2004,Iowa,40,Other,5
+2004,Iowa,40,Unarmed,7
+2004,Kansas,75,Firearms,45
+2004,Kansas,75,Cutting,6
+2004,Kansas,75,Other,22
+2004,Kansas,75,Unarmed,2
+2004,Kentucky,217,Firearms,136
+2004,Kentucky,217,Cutting,25
+2004,Kentucky,217,Other,43
+2004,Kentucky,217,Unarmed,13
+2004,Louisiana,557,Firearms,442
+2004,Louisiana,557,Cutting,44
+2004,Louisiana,557,Other,50
+2004,Louisiana,557,Unarmed,21
+2004,Maine,17,Firearms,9
+2004,Maine,17,Cutting,4
+2004,Maine,17,Other,1
+2004,Maine,17,Unarmed,3
+2004,Maryland,520,Firearms,386
+2004,Maryland,520,Cutting,57
+2004,Maryland,520,Other,47
+2004,Maryland,520,Unarmed,30
+2004,Massachusetts,167,Firearms,97
+2004,Massachusetts,167,Cutting,37
+2004,Massachusetts,167,Other,27
+2004,Massachusetts,167,Unarmed,6
+2004,Michigan,638,Firearms,456
+2004,Michigan,638,Cutting,68
+2004,Michigan,638,Other,79
+2004,Michigan,638,Unarmed,35
+2004,Minnesota,110,Firearms,73
+2004,Minnesota,110,Cutting,19
+2004,Minnesota,110,Other,7
+2004,Minnesota,110,Unarmed,11
+2004,Mississippi,175,Firearms,124
+2004,Mississippi,175,Cutting,22
+2004,Mississippi,175,Other,22
+2004,Mississippi,175,Unarmed,7
+2004,Missouri,353,Firearms,243
+2004,Missouri,353,Cutting,37
+2004,Missouri,353,Other,68
+2004,Missouri,353,Unarmed,5
+2004,Montana,23,Firearms,11
+2004,Montana,23,Cutting,7
+2004,Montana,23,Other,1
+2004,Montana,23,Unarmed,4
+2004,Nebraska,27,Firearms,17
+2004,Nebraska,27,Cutting,3
+2004,Nebraska,27,Other,4
+2004,Nebraska,27,Unarmed,3
+2004,Nevada,172,Firearms,110
+2004,Nevada,172,Cutting,24
+2004,Nevada,172,Other,30
+2004,Nevada,172,Unarmed,8
+2004,New Hampshire,13,Firearms,4
+2004,New Hampshire,13,Cutting,3
+2004,New Hampshire,13,Other,4
+2004,New Hampshire,13,Unarmed,2
+2004,New Jersey,391,Firearms,230
+2004,New Jersey,391,Cutting,69
+2004,New Jersey,391,Other,56
+2004,New Jersey,391,Unarmed,36
+2004,New Mexico,150,Firearms,75
+2004,New Mexico,150,Cutting,28
+2004,New Mexico,150,Other,29
+2004,New Mexico,150,Unarmed,18
+2004,New York,864,Firearms,500
+2004,New York,864,Cutting,173
+2004,New York,864,Other,123
+2004,New York,864,Unarmed,68
+2004,North Carolina,477,Firearms,284
+2004,North Carolina,477,Cutting,67
+2004,North Carolina,477,Other,84
+2004,North Carolina,477,Unarmed,42
+2004,North Dakota,8,Firearms,4
+2004,North Dakota,8,Cutting,0
+2004,North Dakota,8,Other,3
+2004,North Dakota,8,Unarmed,1
+2004,Ohio,464,Firearms,245
+2004,Ohio,464,Cutting,57
+2004,Ohio,464,Other,113
+2004,Ohio,464,Unarmed,49
+2004,Oklahoma,186,Firearms,106
+2004,Oklahoma,186,Cutting,32
+2004,Oklahoma,186,Other,27
+2004,Oklahoma,186,Unarmed,21
+2004,Oregon,90,Firearms,48
+2004,Oregon,90,Cutting,19
+2004,Oregon,90,Other,19
+2004,Oregon,90,Unarmed,4
+2004,Pennsylvania,632,Firearms,449
+2004,Pennsylvania,632,Cutting,54
+2004,Pennsylvania,632,Other,111
+2004,Pennsylvania,632,Unarmed,18
+2004,Rhode Island,26,Firearms,16
+2004,Rhode Island,26,Cutting,3
+2004,Rhode Island,26,Other,3
+2004,Rhode Island,26,Unarmed,4
+2004,South Carolina,287,Firearms,194
+2004,South Carolina,287,Cutting,38
+2004,South Carolina,287,Other,38
+2004,South Carolina,287,Unarmed,17
+2004,South Dakota,16,Firearms,5
+2004,South Dakota,16,Cutting,4
+2004,South Dakota,16,Other,7
+2004,South Dakota,16,Unarmed,0
+2004,Tennessee,350,Firearms,221
+2004,Tennessee,350,Cutting,48
+2004,Tennessee,350,Other,53
+2004,Tennessee,350,Unarmed,28
+2004,Texas,1362,Firearms,882
+2004,Texas,1362,Cutting,211
+2004,Texas,1362,Other,179
+2004,Texas,1362,Unarmed,90
+2004,Utah,21,Firearms,12
+2004,Utah,21,Cutting,2
+2004,Utah,21,Other,6
+2004,Utah,21,Unarmed,1
+2004,Vermont,16,Firearms,3
+2004,Vermont,16,Cutting,7
+2004,Vermont,16,Other,6
+2004,Vermont,16,Unarmed,0
+2004,Virginia,390,Firearms,270
+2004,Virginia,390,Cutting,44
+2004,Virginia,390,Other,61
+2004,Virginia,390,Unarmed,15
+2004,Washington,189,Firearms,106
+2004,Washington,189,Cutting,29
+2004,Washington,189,Other,35
+2004,Washington,189,Unarmed,19
+2004,West Virginia,62,Firearms,31
+2004,West Virginia,62,Cutting,8
+2004,West Virginia,62,Other,18
+2004,West Virginia,62,Unarmed,5
+2004,Wisconsin,154,Firearms,99
+2004,Wisconsin,154,Cutting,20
+2004,Wisconsin,154,Other,18
+2004,Wisconsin,154,Unarmed,17
+2004,Wyoming,11,Firearms,3
+2004,Wyoming,11,Cutting,3
+2004,Wyoming,11,Other,4
+2004,Wyoming,11,Unarmed,1
+2005,Alabama,326,Firearms,223
+2005,Alabama,326,Cutting,25
+2005,Alabama,326,Other,62
+2005,Alabama,326,Unarmed,16
+2005,Alaska,32,Firearms,19
+2005,Alaska,32,Cutting,4
+2005,Alaska,32,Other,6
+2005,Alaska,32,Unarmed,3
+2005,Arizona,440,Firearms,334
+2005,Arizona,440,Cutting,43
+2005,Arizona,440,Other,34
+2005,Arizona,440,Unarmed,29
+2005,Arkansas,176,Firearms,120
+2005,Arkansas,176,Cutting,26
+2005,Arkansas,176,Other,21
+2005,Arkansas,176,Unarmed,9
+2005,California,2503,Firearms,1845
+2005,California,2503,Cutting,288
+2005,California,2503,Other,237
+2005,California,2503,Unarmed,133
+2005,Colorado,170,Firearms,109
+2005,Colorado,170,Cutting,32
+2005,Colorado,170,Other,23
+2005,Colorado,170,Unarmed,6
+2005,Connecticut,91,Firearms,47
+2005,Connecticut,91,Cutting,14
+2005,Connecticut,91,Other,20
+2005,Connecticut,91,Unarmed,10
+2005,Delaware,37,Firearms,23
+2005,Delaware,37,Cutting,8
+2005,Delaware,37,Other,2
+2005,Delaware,37,Unarmed,4
+2005,Georgia,516,Firearms,370
+2005,Georgia,516,Cutting,68
+2005,Georgia,516,Other,73
+2005,Georgia,516,Unarmed,5
+2005,Hawaii,20,Firearms,2
+2005,Hawaii,20,Cutting,9
+2005,Hawaii,20,Other,4
+2005,Hawaii,20,Unarmed,5
+2005,Idaho,34,Firearms,23
+2005,Idaho,34,Cutting,1
+2005,Idaho,34,Other,6
+2005,Idaho,34,Unarmed,4
+2005,Illinois,448,Firearms,339
+2005,Illinois,448,Cutting,51
+2005,Illinois,448,Other,37
+2005,Illinois,448,Unarmed,21
+2005,Indiana,331,Firearms,238
+2005,Indiana,331,Cutting,24
+2005,Indiana,331,Other,52
+2005,Indiana,331,Unarmed,17
+2005,Iowa,38,Firearms,21
+2005,Iowa,38,Cutting,5
+2005,Iowa,38,Other,5
+2005,Iowa,38,Unarmed,7
+2005,Kansas,95,Firearms,52
+2005,Kansas,95,Cutting,16
+2005,Kansas,95,Other,20
+2005,Kansas,95,Unarmed,7
+2005,Kentucky,177,Firearms,124
+2005,Kentucky,177,Cutting,15
+2005,Kentucky,177,Other,24
+2005,Kentucky,177,Unarmed,14
+2005,Louisiana,399,Firearms,309
+2005,Louisiana,399,Cutting,46
+2005,Louisiana,399,Other,34
+2005,Louisiana,399,Unarmed,10
+2005,Maine,19,Firearms,7
+2005,Maine,19,Cutting,4
+2005,Maine,19,Other,4
+2005,Maine,19,Unarmed,4
+2005,Maryland,551,Firearms,418
+2005,Maryland,551,Cutting,68
+2005,Maryland,551,Other,47
+2005,Maryland,551,Unarmed,18
+2005,Massachusetts,171,Firearms,94
+2005,Massachusetts,171,Cutting,39
+2005,Massachusetts,171,Other,31
+2005,Massachusetts,171,Unarmed,7
+2005,Michigan,614,Firearms,421
+2005,Michigan,614,Cutting,52
+2005,Michigan,614,Other,118
+2005,Michigan,614,Unarmed,23
+2005,Minnesota,115,Firearms,73
+2005,Minnesota,115,Cutting,16
+2005,Minnesota,115,Other,15
+2005,Minnesota,115,Unarmed,11
+2005,Mississippi,163,Firearms,113
+2005,Mississippi,163,Cutting,25
+2005,Mississippi,163,Other,15
+2005,Mississippi,163,Unarmed,10
+2005,Missouri,401,Firearms,281
+2005,Missouri,401,Cutting,48
+2005,Missouri,401,Other,63
+2005,Missouri,401,Unarmed,9
+2005,Montana,17,Firearms,5
+2005,Montana,17,Cutting,5
+2005,Montana,17,Other,5
+2005,Montana,17,Unarmed,2
+2005,Nebraska,13,Firearms,5
+2005,Nebraska,13,Cutting,1
+2005,Nebraska,13,Other,3
+2005,Nebraska,13,Unarmed,4
+2005,Nevada,205,Firearms,124
+2005,Nevada,205,Cutting,26
+2005,Nevada,205,Other,41
+2005,Nevada,205,Unarmed,14
+2005,New Hampshire,16,Firearms,6
+2005,New Hampshire,16,Cutting,5
+2005,New Hampshire,16,Other,4
+2005,New Hampshire,16,Unarmed,1
+2005,New Jersey,417,Firearms,276
+2005,New Jersey,417,Cutting,62
+2005,New Jersey,417,Other,41
+2005,New Jersey,417,Unarmed,38
+2005,New Mexico,133,Firearms,66
+2005,New Mexico,133,Cutting,28
+2005,New Mexico,133,Other,22
+2005,New Mexico,133,Unarmed,17
+2005,New York,868,Firearms,500
+2005,New York,868,Cutting,188
+2005,New York,868,Other,107
+2005,New York,868,Unarmed,73
+2005,North Carolina,566,Firearms,353
+2005,North Carolina,566,Cutting,66
+2005,North Carolina,566,Other,96
+2005,North Carolina,566,Unarmed,51
+2005,North Dakota,7,Firearms,1
+2005,North Dakota,7,Cutting,1
+2005,North Dakota,7,Other,5
+2005,North Dakota,7,Unarmed,0
+2005,Ohio,549,Firearms,313
+2005,Ohio,549,Cutting,58
+2005,Ohio,549,Other,125
+2005,Ohio,549,Unarmed,53
+2005,Oklahoma,187,Firearms,129
+2005,Oklahoma,187,Cutting,19
+2005,Oklahoma,187,Other,22
+2005,Oklahoma,187,Unarmed,17
+2005,Oregon,79,Firearms,48
+2005,Oregon,79,Cutting,11
+2005,Oregon,79,Other,17
+2005,Oregon,79,Unarmed,3
+2005,Pennsylvania,734,Firearms,528
+2005,Pennsylvania,734,Cutting,88
+2005,Pennsylvania,734,Other,97
+2005,Pennsylvania,734,Unarmed,21
+2005,Rhode Island,34,Firearms,16
+2005,Rhode Island,34,Cutting,5
+2005,Rhode Island,34,Other,7
+2005,Rhode Island,34,Unarmed,6
+2005,South Carolina,312,Firearms,217
+2005,South Carolina,312,Cutting,37
+2005,South Carolina,312,Other,36
+2005,South Carolina,312,Unarmed,22
+2005,South Dakota,14,Firearms,6
+2005,South Dakota,14,Cutting,3
+2005,South Dakota,14,Other,3
+2005,South Dakota,14,Unarmed,2
+2005,Tennessee,428,Firearms,301
+2005,Tennessee,428,Cutting,48
+2005,Tennessee,428,Other,50
+2005,Tennessee,428,Unarmed,29
+2005,Texas,1406,Firearms,946
+2005,Texas,1406,Cutting,205
+2005,Texas,1406,Other,173
+2005,Texas,1406,Unarmed,82
+2005,Utah,56,Firearms,27
+2005,Utah,56,Cutting,12
+2005,Utah,56,Other,10
+2005,Utah,56,Unarmed,7
+2005,Vermont,8,Firearms,5
+2005,Vermont,8,Cutting,1
+2005,Vermont,8,Other,1
+2005,Vermont,8,Unarmed,1
+2005,Virginia,459,Firearms,318
+2005,Virginia,459,Cutting,51
+2005,Virginia,459,Other,68
+2005,Virginia,459,Unarmed,22
+2005,Washington,205,Firearms,126
+2005,Washington,205,Cutting,40
+2005,Washington,205,Other,19
+2005,Washington,205,Unarmed,20
+2005,West Virginia,72,Firearms,40
+2005,West Virginia,72,Cutting,3
+2005,West Virginia,72,Other,19
+2005,West Virginia,72,Unarmed,10
+2005,Wisconsin,194,Firearms,132
+2005,Wisconsin,194,Cutting,23
+2005,Wisconsin,194,Other,27
+2005,Wisconsin,194,Unarmed,12
+2005,Wyoming,14,Firearms,7
+2005,Wyoming,14,Cutting,1
+2005,Wyoming,14,Other,3
+2005,Wyoming,14,Unarmed,3
+2006,Alabama,349,Firearms,247
+2006,Alabama,349,Cutting,35
+2006,Alabama,349,Other,51
+2006,Alabama,349,Unarmed,16
+2006,Alaska,35,Firearms,22
+2006,Alaska,35,Cutting,8
+2006,Alaska,35,Other,2
+2006,Alaska,35,Unarmed,3
+2006,Arizona,462,Firearms,343
+2006,Arizona,462,Cutting,53
+2006,Arizona,462,Other,46
+2006,Arizona,462,Unarmed,20
+2006,Arkansas,201,Firearms,134
+2006,Arkansas,201,Cutting,22
+2006,Arkansas,201,Other,34
+2006,Arkansas,201,Unarmed,11
+2006,California,2485,Firearms,1822
+2006,California,2485,Cutting,315
+2006,California,2485,Other,218
+2006,California,2485,Unarmed,130
+2006,Colorado,156,Firearms,85
+2006,Colorado,156,Cutting,35
+2006,Colorado,156,Other,16
+2006,Colorado,156,Unarmed,20
+2006,Connecticut,100,Firearms,65
+2006,Connecticut,100,Cutting,18
+2006,Connecticut,100,Other,12
+2006,Connecticut,100,Unarmed,5
+2006,Delaware,41,Firearms,27
+2006,Delaware,41,Cutting,7
+2006,Delaware,41,Other,6
+2006,Delaware,41,Unarmed,1
+2006,Georgia,548,Firearms,403
+2006,Georgia,548,Cutting,64
+2006,Georgia,548,Other,67
+2006,Georgia,548,Unarmed,14
+2006,Hawaii,21,Firearms,7
+2006,Hawaii,21,Cutting,3
+2006,Hawaii,21,Other,6
+2006,Hawaii,21,Unarmed,5
+2006,Idaho,36,Firearms,22
+2006,Idaho,36,Cutting,6
+2006,Idaho,36,Other,5
+2006,Idaho,36,Unarmed,3
+2006,Illinois,487,Firearms,392
+2006,Illinois,487,Cutting,46
+2006,Illinois,487,Other,35
+2006,Illinois,487,Unarmed,14
+2006,Indiana,339,Firearms,239
+2006,Indiana,339,Cutting,36
+2006,Indiana,339,Other,45
+2006,Indiana,339,Unarmed,19
+2006,Iowa,54,Firearms,23
+2006,Iowa,54,Cutting,13
+2006,Iowa,54,Other,11
+2006,Iowa,54,Unarmed,7
+2006,Kansas,126,Firearms,70
+2006,Kansas,126,Cutting,14
+2006,Kansas,126,Other,33
+2006,Kansas,126,Unarmed,9
+2006,Kentucky,150,Firearms,98
+2006,Kentucky,150,Cutting,22
+2006,Kentucky,150,Other,16
+2006,Kentucky,150,Unarmed,14
+2006,Louisiana,488,Firearms,396
+2006,Louisiana,488,Cutting,35
+2006,Louisiana,488,Other,37
+2006,Louisiana,488,Unarmed,20
+2006,Maine,23,Firearms,12
+2006,Maine,23,Cutting,1
+2006,Maine,23,Other,8
+2006,Maine,23,Unarmed,2
+2006,Maryland,546,Firearms,403
+2006,Maryland,546,Cutting,72
+2006,Maryland,546,Other,46
+2006,Maryland,546,Unarmed,25
+2006,Massachusetts,185,Firearms,111
+2006,Massachusetts,185,Cutting,42
+2006,Massachusetts,185,Other,28
+2006,Massachusetts,185,Unarmed,4
+2006,Michigan,711,Firearms,498
+2006,Michigan,711,Cutting,50
+2006,Michigan,711,Other,134
+2006,Michigan,711,Unarmed,29
+2006,Minnesota,117,Firearms,75
+2006,Minnesota,117,Cutting,20
+2006,Minnesota,117,Other,9
+2006,Minnesota,117,Unarmed,13
+2006,Mississippi,173,Firearms,121
+2006,Mississippi,173,Cutting,18
+2006,Mississippi,173,Other,24
+2006,Mississippi,173,Unarmed,10
+2006,Missouri,334,Firearms,246
+2006,Missouri,334,Cutting,36
+2006,Missouri,334,Other,41
+2006,Missouri,334,Unarmed,11
+2006,Montana,17,Firearms,4
+2006,Montana,17,Cutting,3
+2006,Montana,17,Other,7
+2006,Montana,17,Unarmed,3
+2006,Nebraska,16,Firearms,5
+2006,Nebraska,16,Cutting,2
+2006,Nebraska,16,Other,7
+2006,Nebraska,16,Unarmed,2
+2006,Nevada,224,Firearms,133
+2006,Nevada,224,Cutting,34
+2006,Nevada,224,Other,45
+2006,Nevada,224,Unarmed,12
+2006,New Hampshire,12,Firearms,3
+2006,New Hampshire,12,Cutting,6
+2006,New Hampshire,12,Other,1
+2006,New Hampshire,12,Unarmed,2
+2006,New Jersey,428,Firearms,289
+2006,New Jersey,428,Cutting,69
+2006,New Jersey,428,Other,47
+2006,New Jersey,428,Unarmed,23
+2006,New Mexico,99,Firearms,57
+2006,New Mexico,99,Cutting,21
+2006,New Mexico,99,Other,7
+2006,New Mexico,99,Unarmed,14
+2006,New York,921,Firearms,400
+2006,New York,921,Cutting,141
+2006,New York,921,Other,351
+2006,New York,921,Unarmed,29
+2006,North Carolina,530,Firearms,338
+2006,North Carolina,530,Cutting,59
+2006,North Carolina,530,Other,75
+2006,North Carolina,530,Unarmed,58
+2006,North Dakota,8,Firearms,1
+2006,North Dakota,8,Cutting,4
+2006,North Dakota,8,Other,3
+2006,North Dakota,8,Unarmed,0
+2006,Ohio,487,Firearms,334
+2006,Ohio,487,Cutting,40
+2006,Ohio,487,Other,84
+2006,Ohio,487,Unarmed,29
+2006,Oklahoma,207,Firearms,133
+2006,Oklahoma,207,Cutting,18
+2006,Oklahoma,207,Other,35
+2006,Oklahoma,207,Unarmed,21
+2006,Oregon,85,Firearms,44
+2006,Oregon,85,Cutting,22
+2006,Oregon,85,Other,12
+2006,Oregon,85,Unarmed,7
+2006,Pennsylvania,719,Firearms,554
+2006,Pennsylvania,719,Cutting,51
+2006,Pennsylvania,719,Other,87
+2006,Pennsylvania,719,Unarmed,27
+2006,Rhode Island,28,Firearms,7
+2006,Rhode Island,28,Cutting,8
+2006,Rhode Island,28,Other,11
+2006,Rhode Island,28,Unarmed,2
+2006,South Carolina,359,Firearms,253
+2006,South Carolina,359,Cutting,44
+2006,South Carolina,359,Other,42
+2006,South Carolina,359,Unarmed,20
+2006,South Dakota,8,Firearms,2
+2006,South Dakota,8,Cutting,2
+2006,South Dakota,8,Other,4
+2006,South Dakota,8,Unarmed,0
+2006,Tennessee,409,Firearms,271
+2006,Tennessee,409,Cutting,43
+2006,Tennessee,409,Other,71
+2006,Tennessee,409,Unarmed,24
+2006,Texas,1381,Firearms,949
+2006,Texas,1381,Cutting,162
+2006,Texas,1381,Other,183
+2006,Texas,1381,Unarmed,87
+2006,Utah,46,Firearms,21
+2006,Utah,46,Cutting,6
+2006,Utah,46,Other,9
+2006,Utah,46,Unarmed,10
+2006,Vermont,12,Firearms,7
+2006,Vermont,12,Cutting,1
+2006,Vermont,12,Other,2
+2006,Vermont,12,Unarmed,2
+2006,Virginia,398,Firearms,264
+2006,Virginia,398,Cutting,49
+2006,Virginia,398,Other,70
+2006,Virginia,398,Unarmed,15
+2006,Washington,186,Firearms,107
+2006,Washington,186,Cutting,31
+2006,Washington,186,Other,28
+2006,Washington,186,Unarmed,20
+2006,West Virginia,71,Firearms,40
+2006,West Virginia,71,Cutting,9
+2006,West Virginia,71,Other,18
+2006,West Virginia,71,Unarmed,4
+2006,Wisconsin,163,Firearms,95
+2006,Wisconsin,163,Cutting,23
+2006,Wisconsin,163,Other,29
+2006,Wisconsin,163,Unarmed,16
+2006,Wyoming,9,Firearms,5
+2006,Wyoming,9,Cutting,3
+2006,Wyoming,9,Other,0
+2006,Wyoming,9,Unarmed,1
+2007,Alabama,385,Firearms,285
+2007,Alabama,385,Cutting,38
+2007,Alabama,385,Other,47
+2007,Alabama,385,Unarmed,15
+2007,Alaska,43,Firearms,21
+2007,Alaska,43,Cutting,5
+2007,Alaska,43,Other,5
+2007,Alaska,43,Unarmed,12
+2007,Arizona,464,Firearms,323
+2007,Arizona,464,Cutting,44
+2007,Arizona,464,Other,67
+2007,Arizona,464,Unarmed,30
+2007,Arkansas,191,Firearms,130
+2007,Arkansas,191,Cutting,20
+2007,Arkansas,191,Other,29
+2007,Arkansas,191,Unarmed,12
+2007,California,2249,Firearms,1605
+2007,California,2249,Cutting,298
+2007,California,2249,Other,228
+2007,California,2249,Unarmed,118
+2007,Colorado,150,Firearms,85
+2007,Colorado,150,Cutting,23
+2007,Colorado,150,Other,25
+2007,Colorado,150,Unarmed,17
+2007,Connecticut,95,Firearms,57
+2007,Connecticut,95,Cutting,14
+2007,Connecticut,95,Other,20
+2007,Connecticut,95,Unarmed,4
+2007,Delaware,37,Firearms,22
+2007,Delaware,37,Cutting,6
+2007,Delaware,37,Other,8
+2007,Delaware,37,Unarmed,1
+2007,Georgia,674,Firearms,485
+2007,Georgia,674,Cutting,84
+2007,Georgia,674,Other,99
+2007,Georgia,674,Unarmed,6
+2007,Hawaii,12,Firearms,3
+2007,Hawaii,12,Cutting,3
+2007,Hawaii,12,Other,1
+2007,Hawaii,12,Unarmed,5
+2007,Idaho,49,Firearms,25
+2007,Idaho,49,Cutting,5
+2007,Idaho,49,Other,14
+2007,Idaho,49,Unarmed,5
+2007,Illinois,463,Firearms,343
+2007,Illinois,463,Cutting,53
+2007,Illinois,463,Other,57
+2007,Illinois,463,Unarmed,10
+2007,Indiana,333,Firearms,231
+2007,Indiana,333,Cutting,38
+2007,Indiana,333,Other,44
+2007,Indiana,333,Unarmed,20
+2007,Iowa,36,Firearms,12
+2007,Iowa,36,Cutting,11
+2007,Iowa,36,Other,8
+2007,Iowa,36,Unarmed,5
+2007,Kansas,104,Firearms,63
+2007,Kansas,104,Cutting,12
+2007,Kansas,104,Other,23
+2007,Kansas,104,Unarmed,6
+2007,Kentucky,196,Firearms,131
+2007,Kentucky,196,Cutting,19
+2007,Kentucky,196,Other,27
+2007,Kentucky,196,Unarmed,19
+2007,Louisiana,577,Firearms,455
+2007,Louisiana,577,Cutting,45
+2007,Louisiana,577,Other,55
+2007,Louisiana,577,Unarmed,22
+2007,Maine,21,Firearms,9
+2007,Maine,21,Cutting,6
+2007,Maine,21,Other,4
+2007,Maine,21,Unarmed,2
+2007,Maryland,553,Firearms,414
+2007,Maryland,553,Cutting,53
+2007,Maryland,553,Other,63
+2007,Maryland,553,Unarmed,23
+2007,Massachusetts,182,Firearms,114
+2007,Massachusetts,182,Cutting,31
+2007,Massachusetts,182,Other,23
+2007,Massachusetts,182,Unarmed,14
+2007,Michigan,672,Firearms,444
+2007,Michigan,672,Cutting,64
+2007,Michigan,672,Other,134
+2007,Michigan,672,Unarmed,30
+2007,Minnesota,107,Firearms,61
+2007,Minnesota,107,Cutting,15
+2007,Minnesota,107,Other,20
+2007,Minnesota,107,Unarmed,11
+2007,Mississippi,152,Firearms,119
+2007,Mississippi,152,Cutting,15
+2007,Mississippi,152,Other,12
+2007,Mississippi,152,Unarmed,6
+2007,Missouri,351,Firearms,247
+2007,Missouri,351,Cutting,34
+2007,Missouri,351,Other,55
+2007,Missouri,351,Unarmed,15
+2007,Montana,14,Firearms,10
+2007,Montana,14,Cutting,2
+2007,Montana,14,Other,1
+2007,Montana,14,Unarmed,1
+2007,Nebraska,22,Firearms,9
+2007,Nebraska,22,Cutting,2
+2007,Nebraska,22,Other,6
+2007,Nebraska,22,Unarmed,5
+2007,Nevada,192,Firearms,123
+2007,Nevada,192,Cutting,25
+2007,Nevada,192,Other,32
+2007,Nevada,192,Unarmed,12
+2007,New Hampshire,11,Firearms,7
+2007,New Hampshire,11,Cutting,2
+2007,New Hampshire,11,Other,2
+2007,New Hampshire,11,Unarmed,0
+2007,New Jersey,380,Firearms,260
+2007,New Jersey,380,Cutting,46
+2007,New Jersey,380,Other,37
+2007,New Jersey,380,Unarmed,37
+2007,New Mexico,148,Firearms,81
+2007,New Mexico,148,Cutting,20
+2007,New Mexico,148,Other,26
+2007,New Mexico,148,Unarmed,21
+2007,New York,800,Firearms,500
+2007,New York,800,Cutting,142
+2007,New York,800,Other,124
+2007,New York,800,Unarmed,34
+2007,North Carolina,555,Firearms,369
+2007,North Carolina,555,Cutting,63
+2007,North Carolina,555,Other,83
+2007,North Carolina,555,Unarmed,40
+2007,North Dakota,12,Firearms,3
+2007,North Dakota,12,Cutting,1
+2007,North Dakota,12,Other,4
+2007,North Dakota,12,Unarmed,4
+2007,Ohio,486,Firearms,299
+2007,Ohio,486,Cutting,45
+2007,Ohio,486,Other,101
+2007,Ohio,486,Unarmed,41
+2007,Oklahoma,222,Firearms,132
+2007,Oklahoma,222,Cutting,35
+2007,Oklahoma,222,Other,36
+2007,Oklahoma,222,Unarmed,19
+2007,Oregon,72,Firearms,38
+2007,Oregon,72,Cutting,12
+2007,Oregon,72,Other,18
+2007,Oregon,72,Unarmed,4
+2007,Pennsylvania,719,Firearms,527
+2007,Pennsylvania,719,Cutting,81
+2007,Pennsylvania,719,Other,88
+2007,Pennsylvania,719,Unarmed,23
+2007,Rhode Island,19,Firearms,9
+2007,Rhode Island,19,Cutting,7
+2007,Rhode Island,19,Other,3
+2007,Rhode Island,19,Unarmed,0
+2007,South Carolina,349,Firearms,235
+2007,South Carolina,349,Cutting,40
+2007,South Carolina,349,Other,60
+2007,South Carolina,349,Unarmed,14
+2007,South Dakota,15,Firearms,4
+2007,South Dakota,15,Cutting,3
+2007,South Dakota,15,Other,6
+2007,South Dakota,15,Unarmed,2
+2007,Tennessee,397,Firearms,252
+2007,Tennessee,397,Cutting,50
+2007,Tennessee,397,Other,72
+2007,Tennessee,397,Unarmed,23
+2007,Texas,1419,Firearms,946
+2007,Texas,1419,Cutting,177
+2007,Texas,1419,Other,203
+2007,Texas,1419,Unarmed,93
+2007,Utah,58,Firearms,38
+2007,Utah,58,Cutting,5
+2007,Utah,58,Other,10
+2007,Utah,58,Unarmed,5
+2007,Vermont,12,Firearms,9
+2007,Vermont,12,Cutting,2
+2007,Vermont,12,Other,0
+2007,Vermont,12,Unarmed,1
+2007,Virginia,406,Firearms,287
+2007,Virginia,406,Cutting,48
+2007,Virginia,406,Other,51
+2007,Virginia,406,Unarmed,20
+2007,Washington,170,Firearms,99
+2007,Washington,170,Cutting,27
+2007,Washington,170,Other,29
+2007,Washington,170,Unarmed,15
+2007,West Virginia,59,Firearms,37
+2007,West Virginia,59,Cutting,5
+2007,West Virginia,59,Other,7
+2007,West Virginia,59,Unarmed,10
+2007,Wisconsin,182,Firearms,121
+2007,Wisconsin,182,Cutting,18
+2007,Wisconsin,182,Other,27
+2007,Wisconsin,182,Unarmed,16
+2007,Wyoming,16,Firearms,7
+2007,Wyoming,16,Cutting,2
+2007,Wyoming,16,Other,1
+2007,Wyoming,16,Unarmed,6
+2008,Alabama,338,Firearms,262
+2008,Alabama,338,Cutting,24
+2008,Alabama,338,Other,35
+2008,Alabama,338,Unarmed,17
+2008,Alaska,27,Firearms,13
+2008,Alaska,27,Cutting,1
+2008,Alaska,27,Other,6
+2008,Alaska,27,Unarmed,7
+2008,Arizona,405,Firearms,290
+2008,Arizona,405,Cutting,45
+2008,Arizona,405,Other,45
+2008,Arizona,405,Unarmed,25
+2008,Arkansas,157,Firearms,110
+2008,Arkansas,157,Cutting,17
+2008,Arkansas,157,Other,25
+2008,Arkansas,157,Unarmed,5
+2008,California,2142,Firearms,1487
+2008,California,2142,Cutting,294
+2008,California,2142,Other,241
+2008,California,2142,Unarmed,120
+2008,Colorado,151,Firearms,86
+2008,Colorado,151,Cutting,31
+2008,Colorado,151,Other,17
+2008,Colorado,151,Unarmed,17
+2008,Connecticut,112,Firearms,71
+2008,Connecticut,112,Cutting,27
+2008,Connecticut,112,Other,11
+2008,Connecticut,112,Unarmed,3
+2008,Delaware,57,Firearms,44
+2008,Delaware,57,Cutting,6
+2008,Delaware,57,Other,5
+2008,Delaware,57,Unarmed,2
+2008,Georgia,614,Firearms,435
+2008,Georgia,614,Cutting,73
+2008,Georgia,614,Other,98
+2008,Georgia,614,Unarmed,8
+2008,Hawaii,25,Firearms,11
+2008,Hawaii,25,Cutting,8
+2008,Hawaii,25,Other,0
+2008,Hawaii,25,Unarmed,6
+2008,Idaho,23,Firearms,14
+2008,Idaho,23,Cutting,0
+2008,Idaho,23,Other,3
+2008,Idaho,23,Unarmed,6
+2008,Illinois,530,Firearms,421
+2008,Illinois,530,Cutting,48
+2008,Illinois,530,Other,50
+2008,Illinois,530,Unarmed,11
+2008,Indiana,306,Firearms,220
+2008,Indiana,306,Cutting,28
+2008,Indiana,306,Other,39
+2008,Indiana,306,Unarmed,19
+2008,Iowa,74,Firearms,25
+2008,Iowa,74,Cutting,16
+2008,Iowa,74,Other,20
+2008,Iowa,74,Unarmed,13
+2008,Kansas,110,Firearms,61
+2008,Kansas,110,Cutting,15
+2008,Kansas,110,Other,17
+2008,Kansas,110,Unarmed,17
+2008,Kentucky,182,Firearms,121
+2008,Kentucky,182,Cutting,25
+2008,Kentucky,182,Other,27
+2008,Kentucky,182,Unarmed,9
+2008,Louisiana,390,Firearms,309
+2008,Louisiana,390,Cutting,33
+2008,Louisiana,390,Other,34
+2008,Louisiana,390,Unarmed,14
+2008,Maine,31,Firearms,11
+2008,Maine,31,Cutting,10
+2008,Maine,31,Other,4
+2008,Maine,31,Unarmed,6
+2008,Maryland,493,Firearms,353
+2008,Maryland,493,Cutting,61
+2008,Maryland,493,Other,51
+2008,Maryland,493,Unarmed,28
+2008,Massachusetts,164,Firearms,89
+2008,Massachusetts,164,Cutting,49
+2008,Massachusetts,164,Other,23
+2008,Massachusetts,164,Unarmed,3
+2008,Michigan,536,Firearms,375
+2008,Michigan,536,Cutting,40
+2008,Michigan,536,Other,94
+2008,Michigan,536,Unarmed,27
+2008,Minnesota,106,Firearms,54
+2008,Minnesota,106,Cutting,22
+2008,Minnesota,106,Other,22
+2008,Minnesota,106,Unarmed,8
+2008,Mississippi,184,Firearms,142
+2008,Mississippi,184,Cutting,15
+2008,Mississippi,184,Other,20
+2008,Mississippi,184,Unarmed,7
+2008,Missouri,455,Firearms,349
+2008,Missouri,455,Cutting,41
+2008,Missouri,455,Other,53
+2008,Missouri,455,Unarmed,12
+2008,Montana,23,Firearms,11
+2008,Montana,23,Cutting,4
+2008,Montana,23,Other,4
+2008,Montana,23,Unarmed,4
+2008,Nebraska,22,Firearms,9
+2008,Nebraska,22,Cutting,4
+2008,Nebraska,22,Other,8
+2008,Nebraska,22,Unarmed,1
+2008,Nevada,163,Firearms,93
+2008,Nevada,163,Cutting,27
+2008,Nevada,163,Other,35
+2008,Nevada,163,Unarmed,8
+2008,New Hampshire,12,Firearms,2
+2008,New Hampshire,12,Cutting,3
+2008,New Hampshire,12,Other,7
+2008,New Hampshire,12,Unarmed,0
+2008,New Jersey,376,Firearms,236
+2008,New Jersey,376,Cutting,67
+2008,New Jersey,376,Other,39
+2008,New Jersey,376,Unarmed,34
+2008,New Mexico,134,Firearms,88
+2008,New Mexico,134,Cutting,22
+2008,New Mexico,134,Other,13
+2008,New Mexico,134,Unarmed,11
+2008,New York,835,Firearms,475
+2008,New York,835,Cutting,184
+2008,New York,835,Other,147
+2008,New York,835,Unarmed,29
+2008,North Carolina,586,Firearms,362
+2008,North Carolina,586,Cutting,54
+2008,North Carolina,586,Other,102
+2008,North Carolina,586,Unarmed,68
+2008,North Dakota,3,Firearms,0
+2008,North Dakota,3,Cutting,2
+2008,North Dakota,3,Other,0
+2008,North Dakota,3,Unarmed,1
+2008,Ohio,460,Firearms,293
+2008,Ohio,460,Cutting,38
+2008,Ohio,460,Other,90
+2008,Ohio,460,Unarmed,39
+2008,Oklahoma,212,Firearms,128
+2008,Oklahoma,212,Cutting,33
+2008,Oklahoma,212,Other,28
+2008,Oklahoma,212,Unarmed,23
+2008,Oregon,82,Firearms,47
+2008,Oregon,82,Cutting,16
+2008,Oregon,82,Other,18
+2008,Oregon,82,Unarmed,1
+2008,Pennsylvania,700,Firearms,521
+2008,Pennsylvania,700,Cutting,66
+2008,Pennsylvania,700,Other,86
+2008,Pennsylvania,700,Unarmed,27
+2008,Rhode Island,29,Firearms,18
+2008,Rhode Island,29,Cutting,6
+2008,Rhode Island,29,Other,4
+2008,Rhode Island,29,Unarmed,1
+2008,South Carolina,304,Firearms,206
+2008,South Carolina,304,Cutting,31
+2008,South Carolina,304,Other,43
+2008,South Carolina,304,Unarmed,24
+2008,South Dakota,22,Firearms,13
+2008,South Dakota,22,Cutting,1
+2008,South Dakota,22,Other,7
+2008,South Dakota,22,Unarmed,1
+2008,Tennessee,408,Firearms,240
+2008,Tennessee,408,Cutting,53
+2008,Tennessee,408,Other,91
+2008,Tennessee,408,Unarmed,24
+2008,Texas,1372,Firearms,895
+2008,Texas,1372,Cutting,230
+2008,Texas,1372,Other,140
+2008,Texas,1372,Unarmed,107
+2008,Utah,41,Firearms,19
+2008,Utah,41,Cutting,8
+2008,Utah,41,Other,8
+2008,Utah,41,Unarmed,6
+2008,Vermont,17,Firearms,8
+2008,Vermont,17,Cutting,0
+2008,Vermont,17,Other,6
+2008,Vermont,17,Unarmed,3
+2008,Virginia,366,Firearms,240
+2008,Virginia,366,Cutting,54
+2008,Virginia,366,Other,61
+2008,Virginia,366,Unarmed,11
+2008,Washington,190,Firearms,110
+2008,Washington,190,Cutting,32
+2008,Washington,190,Other,25
+2008,Washington,190,Unarmed,23
+2008,West Virginia,55,Firearms,33
+2008,West Virginia,55,Cutting,5
+2008,West Virginia,55,Other,13
+2008,West Virginia,55,Unarmed,4
+2008,Wisconsin,146,Firearms,80
+2008,Wisconsin,146,Cutting,25
+2008,Wisconsin,146,Other,22
+2008,Wisconsin,146,Unarmed,19
+2008,Wyoming,10,Firearms,4
+2008,Wyoming,10,Cutting,3
+2008,Wyoming,10,Other,1
+2008,Wyoming,10,Unarmed,2
+2009,Alabama,318,Firearms,229
+2009,Alabama,318,Cutting,29
+2009,Alabama,318,Other,40
+2009,Alabama,318,Unarmed,20
+2009,Alaska,22,Firearms,13
+2009,Alaska,22,Cutting,4
+2009,Alaska,22,Other,3
+2009,Alaska,22,Unarmed,2
+2009,Arizona,328,Firearms,197
+2009,Arizona,328,Cutting,61
+2009,Arizona,328,Other,53
+2009,Arizona,328,Unarmed,17
+2009,Arkansas,171,Firearms,107
+2009,Arkansas,171,Cutting,21
+2009,Arkansas,171,Other,38
+2009,Arkansas,171,Unarmed,5
+2009,California,1972,Firearms,1360
+2009,California,1972,Cutting,291
+2009,California,1972,Other,214
+2009,California,1972,Unarmed,107
+2009,Colorado,167,Firearms,94
+2009,Colorado,167,Cutting,23
+2009,Colorado,167,Other,30
+2009,Colorado,167,Unarmed,20
+2009,Connecticut,107,Firearms,70
+2009,Connecticut,107,Cutting,17
+2009,Connecticut,107,Other,14
+2009,Connecticut,107,Unarmed,6
+2009,Delaware,41,Firearms,31
+2009,Delaware,41,Cutting,6
+2009,Delaware,41,Other,1
+2009,Delaware,41,Unarmed,3
+2009,District of Columbia,144,Firearms,113
+2009,District of Columbia,144,Cutting,17
+2009,District of Columbia,144,Other,9
+2009,District of Columbia,144,Unarmed,5
+2009,Georgia,543,Firearms,378
+2009,Georgia,543,Cutting,56
+2009,Georgia,543,Other,97
+2009,Georgia,543,Unarmed,12
+2009,Hawaii,21,Firearms,8
+2009,Hawaii,21,Cutting,3
+2009,Hawaii,21,Other,4
+2009,Hawaii,21,Unarmed,6
+2009,Idaho,22,Firearms,5
+2009,Idaho,22,Cutting,3
+2009,Idaho,22,Other,9
+2009,Idaho,22,Unarmed,5
+2009,Illinois,479,Firearms,386
+2009,Illinois,479,Cutting,39
+2009,Illinois,479,Other,48
+2009,Illinois,479,Unarmed,6
+2009,Indiana,293,Firearms,209
+2009,Indiana,293,Cutting,34
+2009,Indiana,293,Other,40
+2009,Indiana,293,Unarmed,10
+2009,Iowa,34,Firearms,11
+2009,Iowa,34,Cutting,8
+2009,Iowa,34,Other,6
+2009,Iowa,34,Unarmed,9
+2009,Kansas,118,Firearms,85
+2009,Kansas,118,Cutting,14
+2009,Kansas,118,Other,11
+2009,Kansas,118,Unarmed,8
+2009,Kentucky,170,Firearms,112
+2009,Kentucky,170,Cutting,22
+2009,Kentucky,170,Other,27
+2009,Kentucky,170,Unarmed,9
+2009,Louisiana,486,Firearms,402
+2009,Louisiana,486,Cutting,32
+2009,Louisiana,486,Other,37
+2009,Louisiana,486,Unarmed,15
+2009,Maine,26,Firearms,11
+2009,Maine,26,Cutting,6
+2009,Maine,26,Other,6
+2009,Maine,26,Unarmed,3
+2009,Maryland,438,Firearms,305
+2009,Maryland,438,Cutting,58
+2009,Maryland,438,Other,57
+2009,Maryland,438,Unarmed,18
+2009,Massachusetts,169,Firearms,93
+2009,Massachusetts,169,Cutting,40
+2009,Massachusetts,169,Other,29
+2009,Massachusetts,169,Unarmed,7
+2009,Michigan,625,Firearms,437
+2009,Michigan,625,Cutting,47
+2009,Michigan,625,Other,112
+2009,Michigan,625,Unarmed,29
+2009,Minnesota,72,Firearms,38
+2009,Minnesota,72,Cutting,14
+2009,Minnesota,72,Other,8
+2009,Minnesota,72,Unarmed,12
+2009,Mississippi,151,Firearms,105
+2009,Mississippi,151,Cutting,22
+2009,Mississippi,151,Other,15
+2009,Mississippi,151,Unarmed,9
+2009,Missouri,381,Firearms,276
+2009,Missouri,381,Cutting,40
+2009,Missouri,381,Other,50
+2009,Missouri,381,Unarmed,15
+2009,Montana,28,Firearms,19
+2009,Montana,28,Cutting,4
+2009,Montana,28,Other,2
+2009,Montana,28,Unarmed,3
+2009,Nebraska,40,Firearms,23
+2009,Nebraska,40,Cutting,8
+2009,Nebraska,40,Other,4
+2009,Nebraska,40,Unarmed,5
+2009,Nevada,156,Firearms,91
+2009,Nevada,156,Cutting,25
+2009,Nevada,156,Other,27
+2009,Nevada,156,Unarmed,13
+2009,New Hampshire,10,Firearms,4
+2009,New Hampshire,10,Cutting,3
+2009,New Hampshire,10,Other,2
+2009,New Hampshire,10,Unarmed,1
+2009,New Jersey,319,Firearms,220
+2009,New Jersey,319,Cutting,44
+2009,New Jersey,319,Other,36
+2009,New Jersey,319,Unarmed,19
+2009,New Mexico,144,Firearms,78
+2009,New Mexico,144,Cutting,24
+2009,New Mexico,144,Other,29
+2009,New Mexico,144,Unarmed,13
+2009,New York,779,Firearms,481
+2009,New York,779,Cutting,166
+2009,New York,779,Other,109
+2009,New York,779,Unarmed,23
+2009,North Carolina,480,Firearms,335
+2009,North Carolina,480,Cutting,49
+2009,North Carolina,480,Other,64
+2009,North Carolina,480,Unarmed,32
+2009,North Dakota,9,Firearms,3
+2009,North Dakota,9,Cutting,0
+2009,North Dakota,9,Other,3
+2009,North Dakota,9,Unarmed,3
+2009,Ohio,502,Firearms,311
+2009,Ohio,502,Cutting,52
+2009,Ohio,502,Other,95
+2009,Ohio,502,Unarmed,44
+2009,Oklahoma,225,Firearms,125
+2009,Oklahoma,225,Cutting,45
+2009,Oklahoma,225,Other,25
+2009,Oklahoma,225,Unarmed,30
+2009,Oregon,83,Firearms,41
+2009,Oregon,83,Cutting,21
+2009,Oregon,83,Other,19
+2009,Oregon,83,Unarmed,2
+2009,Pennsylvania,658,Firearms,468
+2009,Pennsylvania,658,Cutting,66
+2009,Pennsylvania,658,Other,100
+2009,Pennsylvania,658,Unarmed,24
+2009,Rhode Island,31,Firearms,18
+2009,Rhode Island,31,Cutting,6
+2009,Rhode Island,31,Other,5
+2009,Rhode Island,31,Unarmed,2
+2009,South Carolina,286,Firearms,197
+2009,South Carolina,286,Cutting,28
+2009,South Carolina,286,Other,41
+2009,South Carolina,286,Unarmed,20
+2009,South Dakota,11,Firearms,4
+2009,South Dakota,11,Cutting,5
+2009,South Dakota,11,Other,1
+2009,South Dakota,11,Unarmed,1
+2009,Tennessee,461,Firearms,295
+2009,Tennessee,461,Cutting,45
+2009,Tennessee,461,Other,92
+2009,Tennessee,461,Unarmed,29
+2009,Texas,1325,Firearms,862
+2009,Texas,1325,Cutting,197
+2009,Texas,1325,Other,153
+2009,Texas,1325,Unarmed,113
+2009,Utah,37,Firearms,25
+2009,Utah,37,Cutting,8
+2009,Utah,37,Other,2
+2009,Utah,37,Unarmed,2
+2009,Vermont,7,Firearms,0
+2009,Vermont,7,Cutting,4
+2009,Vermont,7,Other,1
+2009,Vermont,7,Unarmed,2
+2009,Virginia,347,Firearms,229
+2009,Virginia,347,Cutting,41
+2009,Virginia,347,Other,55
+2009,Virginia,347,Unarmed,22
+2009,Washington,169,Firearms,101
+2009,Washington,169,Cutting,35
+2009,Washington,169,Other,14
+2009,Washington,169,Unarmed,19
+2009,West Virginia,76,Firearms,38
+2009,West Virginia,76,Cutting,19
+2009,West Virginia,76,Other,13
+2009,West Virginia,76,Unarmed,6
+2009,Wisconsin,144,Firearms,95
+2009,Wisconsin,144,Cutting,22
+2009,Wisconsin,144,Other,13
+2009,Wisconsin,144,Unarmed,14
+2009,Wyoming,11,Firearms,8
+2009,Wyoming,11,Cutting,1
+2009,Wyoming,11,Other,1
+2009,Wyoming,11,Unarmed,1
+2010,Alabama,199,Firearms,135
+2010,Alabama,199,Cutting,23
+2010,Alabama,199,Other,24
+2010,Alabama,199,Unarmed,17
+2010,Alaska,31,Firearms,19
+2010,Alaska,31,Cutting,4
+2010,Alaska,31,Other,4
+2010,Alaska,31,Unarmed,4
+2010,Arizona,352,Firearms,232
+2010,Arizona,352,Cutting,51
+2010,Arizona,352,Other,62
+2010,Arizona,352,Unarmed,7
+2010,Arkansas,130,Firearms,93
+2010,Arkansas,130,Cutting,12
+2010,Arkansas,130,Other,21
+2010,Arkansas,130,Unarmed,4
+2010,California,1811,Firearms,1257
+2010,California,1811,Cutting,250
+2010,California,1811,Other,201
+2010,California,1811,Unarmed,103
+2010,Colorado,117,Firearms,65
+2010,Colorado,117,Cutting,20
+2010,Colorado,117,Other,21
+2010,Colorado,117,Unarmed,11
+2010,Connecticut,131,Firearms,97
+2010,Connecticut,131,Cutting,20
+2010,Connecticut,131,Other,8
+2010,Connecticut,131,Unarmed,6
+2010,Delaware,48,Firearms,38
+2010,Delaware,48,Cutting,8
+2010,Delaware,48,Other,0
+2010,Delaware,48,Unarmed,2
+2010,District of Columbia,131,Firearms,99
+2010,District of Columbia,131,Cutting,20
+2010,District of Columbia,131,Other,7
+2010,District of Columbia,131,Unarmed,5
+2010,Georgia,527,Firearms,376
+2010,Georgia,527,Cutting,64
+2010,Georgia,527,Other,85
+2010,Georgia,527,Unarmed,2
+2010,Hawaii,24,Firearms,7
+2010,Hawaii,24,Cutting,6
+2010,Hawaii,24,Other,5
+2010,Hawaii,24,Unarmed,6
+2010,Idaho,21,Firearms,12
+2010,Idaho,21,Cutting,4
+2010,Idaho,21,Other,2
+2010,Idaho,21,Unarmed,3
+2010,Illinois,453,Firearms,364
+2010,Illinois,453,Cutting,30
+2010,Illinois,453,Other,43
+2010,Illinois,453,Unarmed,16
+2010,Indiana,198,Firearms,142
+2010,Indiana,198,Cutting,19
+2010,Indiana,198,Other,25
+2010,Indiana,198,Unarmed,12
+2010,Iowa,38,Firearms,21
+2010,Iowa,38,Cutting,4
+2010,Iowa,38,Other,9
+2010,Iowa,38,Unarmed,4
+2010,Kansas,100,Firearms,63
+2010,Kansas,100,Cutting,13
+2010,Kansas,100,Other,18
+2010,Kansas,100,Unarmed,6
+2010,Kentucky,180,Firearms,116
+2010,Kentucky,180,Cutting,19
+2010,Kentucky,180,Other,25
+2010,Kentucky,180,Unarmed,20
+2010,Louisiana,437,Firearms,351
+2010,Louisiana,437,Cutting,42
+2010,Louisiana,437,Other,31
+2010,Louisiana,437,Unarmed,13
+2010,Maine,24,Firearms,11
+2010,Maine,24,Cutting,6
+2010,Maine,24,Other,1
+2010,Maine,24,Unarmed,6
+2010,Maryland,424,Firearms,293
+2010,Maryland,424,Cutting,59
+2010,Maryland,424,Other,53
+2010,Maryland,424,Unarmed,19
+2010,Massachusetts,209,Firearms,118
+2010,Massachusetts,209,Cutting,50
+2010,Massachusetts,209,Other,31
+2010,Massachusetts,209,Unarmed,10
+2010,Michigan,558,Firearms,413
+2010,Michigan,558,Cutting,43
+2010,Michigan,558,Other,71
+2010,Michigan,558,Unarmed,31
+2010,Minnesota,91,Firearms,53
+2010,Minnesota,91,Cutting,14
+2010,Minnesota,91,Other,16
+2010,Minnesota,91,Unarmed,8
+2010,Mississippi,165,Firearms,120
+2010,Mississippi,165,Cutting,21
+2010,Mississippi,165,Other,19
+2010,Mississippi,165,Unarmed,5
+2010,Missouri,419,Firearms,321
+2010,Missouri,419,Cutting,35
+2010,Missouri,419,Other,49
+2010,Missouri,419,Unarmed,14
+2010,Montana,21,Firearms,12
+2010,Montana,21,Cutting,3
+2010,Montana,21,Other,5
+2010,Montana,21,Unarmed,1
+2010,Nebraska,51,Firearms,32
+2010,Nebraska,51,Cutting,8
+2010,Nebraska,51,Other,5
+2010,Nebraska,51,Unarmed,6
+2010,Nevada,158,Firearms,84
+2010,Nevada,158,Cutting,22
+2010,Nevada,158,Other,34
+2010,Nevada,158,Unarmed,18
+2010,New Hampshire,13,Firearms,5
+2010,New Hampshire,13,Cutting,5
+2010,New Hampshire,13,Other,3
+2010,New Hampshire,13,Unarmed,0
+2010,New Jersey,363,Firearms,246
+2010,New Jersey,363,Cutting,50
+2010,New Jersey,363,Other,39
+2010,New Jersey,363,Unarmed,28
+2010,New Mexico,118,Firearms,67
+2010,New Mexico,118,Cutting,29
+2010,New Mexico,118,Other,15
+2010,New Mexico,118,Unarmed,7
+2010,New York,860,Firearms,517
+2010,New York,860,Cutting,173
+2010,New York,860,Other,148
+2010,New York,860,Unarmed,22
+2010,North Carolina,445,Firearms,286
+2010,North Carolina,445,Cutting,56
+2010,North Carolina,445,Other,72
+2010,North Carolina,445,Unarmed,31
+2010,North Dakota,9,Firearms,4
+2010,North Dakota,9,Cutting,0
+2010,North Dakota,9,Other,4
+2010,North Dakota,9,Unarmed,1
+2010,Ohio,460,Firearms,310
+2010,Ohio,460,Cutting,40
+2010,Ohio,460,Other,93
+2010,Ohio,460,Unarmed,17
+2010,Oklahoma,188,Firearms,111
+2010,Oklahoma,188,Cutting,24
+2010,Oklahoma,188,Other,32
+2010,Oklahoma,188,Unarmed,21
+2010,Oregon,78,Firearms,36
+2010,Oregon,78,Cutting,16
+2010,Oregon,78,Other,17
+2010,Oregon,78,Unarmed,9
+2010,Pennsylvania,646,Firearms,457
+2010,Pennsylvania,646,Cutting,67
+2010,Pennsylvania,646,Other,94
+2010,Pennsylvania,646,Unarmed,28
+2010,Rhode Island,29,Firearms,16
+2010,Rhode Island,29,Cutting,5
+2010,Rhode Island,29,Other,6
+2010,Rhode Island,29,Unarmed,2
+2010,South Carolina,280,Firearms,207
+2010,South Carolina,280,Cutting,22
+2010,South Carolina,280,Other,34
+2010,South Carolina,280,Unarmed,17
+2010,South Dakota,14,Firearms,8
+2010,South Dakota,14,Cutting,2
+2010,South Dakota,14,Other,4
+2010,South Dakota,14,Unarmed,0
+2010,Tennessee,356,Firearms,219
+2010,Tennessee,356,Cutting,35
+2010,Tennessee,356,Other,83
+2010,Tennessee,356,Unarmed,19
+2010,Texas,1246,Firearms,805
+2010,Texas,1246,Cutting,202
+2010,Texas,1246,Other,130
+2010,Texas,1246,Unarmed,109
+2010,Utah,52,Firearms,22
+2010,Utah,52,Cutting,7
+2010,Utah,52,Other,12
+2010,Utah,52,Unarmed,11
+2010,Vermont,7,Firearms,2
+2010,Vermont,7,Cutting,1
+2010,Vermont,7,Other,2
+2010,Vermont,7,Unarmed,2
+2010,Virgin Islands,50,Firearms,41
+2010,Virgin Islands,50,Cutting,4
+2010,Virgin Islands,50,Other,5
+2010,Virgin Islands,50,Unarmed,0
+2010,Virginia,369,Firearms,250
+2010,Virginia,369,Cutting,47
+2010,Virginia,369,Other,50
+2010,Virginia,369,Unarmed,22
+2010,Washington,151,Firearms,93
+2010,Washington,151,Cutting,24
+2010,Washington,151,Other,22
+2010,Washington,151,Unarmed,12
+2010,West Virginia,55,Firearms,27
+2010,West Virginia,55,Cutting,11
+2010,West Virginia,55,Other,9
+2010,West Virginia,55,Unarmed,8
+2010,Wisconsin,151,Firearms,97
+2010,Wisconsin,151,Cutting,13
+2010,Wisconsin,151,Other,22
+2010,Wisconsin,151,Unarmed,19
+2010,Wyoming,8,Firearms,5
+2010,Wyoming,8,Cutting,1
+2010,Wyoming,8,Other,1
+2010,Wyoming,8,Unarmed,1
+2011,Alaska,29,Firearms,16
+2011,Alaska,29,Cutting,6
+2011,Alaska,29,Other,5
+2011,Alaska,29,Unarmed,2
+2011,Arizona,339,Firearms,222
+2011,Arizona,339,Cutting,49
+2011,Arizona,339,Other,59
+2011,Arizona,339,Unarmed,9
+2011,Arkansas,153,Firearms,110
+2011,Arkansas,153,Cutting,22
+2011,Arkansas,153,Other,17
+2011,Arkansas,153,Unarmed,4
+2011,California,1790,Firearms,1220
+2011,California,1790,Cutting,261
+2011,California,1790,Other,208
+2011,California,1790,Unarmed,101
+2011,Colorado,147,Firearms,73
+2011,Colorado,147,Cutting,22
+2011,Colorado,147,Other,31
+2011,Colorado,147,Unarmed,21
+2011,Connecticut,128,Firearms,94
+2011,Connecticut,128,Cutting,18
+2011,Connecticut,128,Other,10
+2011,Connecticut,128,Unarmed,6
+2011,Delaware,41,Firearms,28
+2011,Delaware,41,Cutting,8
+2011,Delaware,41,Other,2
+2011,Delaware,41,Unarmed,3
+2011,District of Columbia,108,Firearms,77
+2011,District of Columbia,108,Cutting,21
+2011,District of Columbia,108,Other,9
+2011,District of Columbia,108,Unarmed,1
+2011,Georgia,522,Firearms,370
+2011,Georgia,522,Cutting,61
+2011,Georgia,522,Other,83
+2011,Georgia,522,Unarmed,8
+2011,Hawaii,7,Firearms,1
+2011,Hawaii,7,Cutting,2
+2011,Hawaii,7,Other,1
+2011,Hawaii,7,Unarmed,3
+2011,Idaho,32,Firearms,17
+2011,Idaho,32,Cutting,4
+2011,Idaho,32,Other,8
+2011,Idaho,32,Unarmed,3
+2011,Illinois,452,Firearms,377
+2011,Illinois,452,Cutting,29
+2011,Illinois,452,Other,29
+2011,Illinois,452,Unarmed,17
+2011,Indiana,284,Firearms,183
+2011,Indiana,284,Cutting,36
+2011,Indiana,284,Other,43
+2011,Indiana,284,Unarmed,22
+2011,Iowa,44,Firearms,19
+2011,Iowa,44,Cutting,10
+2011,Iowa,44,Other,10
+2011,Iowa,44,Unarmed,5
+2011,Kansas,110,Firearms,73
+2011,Kansas,110,Cutting,11
+2011,Kansas,110,Other,16
+2011,Kansas,110,Unarmed,10
+2011,Kentucky,150,Firearms,100
+2011,Kentucky,150,Cutting,13
+2011,Kentucky,150,Other,24
+2011,Kentucky,150,Unarmed,13
+2011,Louisiana,485,Firearms,402
+2011,Louisiana,485,Cutting,28
+2011,Louisiana,485,Other,29
+2011,Louisiana,485,Unarmed,26
+2011,Maine,25,Firearms,12
+2011,Maine,25,Cutting,4
+2011,Maine,25,Other,7
+2011,Maine,25,Unarmed,2
+2011,Maryland,398,Firearms,272
+2011,Maryland,398,Cutting,75
+2011,Maryland,398,Other,34
+2011,Maryland,398,Unarmed,17
+2011,Massachusetts,183,Firearms,122
+2011,Massachusetts,183,Cutting,30
+2011,Massachusetts,183,Other,22
+2011,Massachusetts,183,Unarmed,9
+2011,Michigan,613,Firearms,450
+2011,Michigan,613,Cutting,43
+2011,Michigan,613,Other,89
+2011,Michigan,613,Unarmed,31
+2011,Minnesota,70,Firearms,43
+2011,Minnesota,70,Cutting,12
+2011,Minnesota,70,Other,12
+2011,Minnesota,70,Unarmed,3
+2011,Mississippi,187,Firearms,138
+2011,Mississippi,187,Cutting,26
+2011,Mississippi,187,Other,14
+2011,Mississippi,187,Unarmed,9
+2011,Missouri,364,Firearms,276
+2011,Missouri,364,Cutting,28
+2011,Missouri,364,Other,42
+2011,Missouri,364,Unarmed,18
+2011,Montana,18,Firearms,7
+2011,Montana,18,Cutting,4
+2011,Montana,18,Other,5
+2011,Montana,18,Unarmed,2
+2011,Nebraska,65,Firearms,42
+2011,Nebraska,65,Cutting,7
+2011,Nebraska,65,Other,9
+2011,Nebraska,65,Unarmed,7
+2011,Nevada,129,Firearms,75
+2011,Nevada,129,Cutting,20
+2011,Nevada,129,Other,25
+2011,Nevada,129,Unarmed,9
+2011,New Hampshire,16,Firearms,6
+2011,New Hampshire,16,Cutting,4
+2011,New Hampshire,16,Other,6
+2011,New Hampshire,16,Unarmed,0
+2011,New Jersey,379,Firearms,269
+2011,New Jersey,379,Cutting,51
+2011,New Jersey,379,Other,41
+2011,New Jersey,379,Unarmed,18
+2011,New Mexico,121,Firearms,60
+2011,New Mexico,121,Cutting,21
+2011,New Mexico,121,Other,32
+2011,New Mexico,121,Unarmed,8
+2011,New York,774,Firearms,445
+2011,New York,774,Cutting,160
+2011,New York,774,Other,143
+2011,New York,774,Unarmed,26
+2011,North Carolina,489,Firearms,335
+2011,North Carolina,489,Cutting,60
+2011,North Carolina,489,Other,57
+2011,North Carolina,489,Unarmed,37
+2011,North Dakota,12,Firearms,6
+2011,North Dakota,12,Cutting,4
+2011,North Dakota,12,Other,0
+2011,North Dakota,12,Unarmed,2
+2011,Ohio,488,Firearms,344
+2011,Ohio,488,Cutting,44
+2011,Ohio,488,Other,80
+2011,Ohio,488,Unarmed,20
+2011,Oklahoma,204,Firearms,131
+2011,Oklahoma,204,Cutting,26
+2011,Oklahoma,204,Other,21
+2011,Oklahoma,204,Unarmed,26
+2011,Oregon,77,Firearms,40
+2011,Oregon,77,Cutting,22
+2011,Oregon,77,Other,10
+2011,Oregon,77,Unarmed,5
+2011,Pennsylvania,636,Firearms,470
+2011,Pennsylvania,636,Cutting,73
+2011,Pennsylvania,636,Other,66
+2011,Pennsylvania,636,Unarmed,27
+2011,Rhode Island,14,Firearms,5
+2011,Rhode Island,14,Cutting,5
+2011,Rhode Island,14,Other,4
+2011,Rhode Island,14,Unarmed,0
+2011,South Carolina,319,Firearms,223
+2011,South Carolina,319,Cutting,38
+2011,South Carolina,319,Other,40
+2011,South Carolina,319,Unarmed,18
+2011,South Dakota,15,Firearms,5
+2011,South Dakota,15,Cutting,4
+2011,South Dakota,15,Other,3
+2011,South Dakota,15,Unarmed,3
+2011,Tennessee,373,Firearms,244
+2011,Tennessee,373,Cutting,51
+2011,Tennessee,373,Other,62
+2011,Tennessee,373,Unarmed,16
+2011,Texas,1089,Firearms,699
+2011,Texas,1089,Cutting,175
+2011,Texas,1089,Other,134
+2011,Texas,1089,Unarmed,81
+2011,Utah,51,Firearms,26
+2011,Utah,51,Cutting,5
+2011,Utah,51,Other,9
+2011,Utah,51,Unarmed,11
+2011,Vermont,8,Firearms,4
+2011,Vermont,8,Cutting,2
+2011,Vermont,8,Other,2
+2011,Vermont,8,Unarmed,0
+2011,Virgin Islands,38,Firearms,31
+2011,Virgin Islands,38,Cutting,5
+2011,Virgin Islands,38,Other,2
+2011,Virgin Islands,38,Unarmed,0
+2011,Virginia,303,Firearms,208
+2011,Virginia,303,Cutting,33
+2011,Virginia,303,Other,41
+2011,Virginia,303,Unarmed,21
+2011,Washington,161,Firearms,79
+2011,Washington,161,Cutting,29
+2011,Washington,161,Other,36
+2011,Washington,161,Unarmed,17
+2011,West Virginia,74,Firearms,43
+2011,West Virginia,74,Cutting,11
+2011,West Virginia,74,Other,13
+2011,West Virginia,74,Unarmed,7
+2011,Wisconsin,135,Firearms,80
+2011,Wisconsin,135,Cutting,21
+2011,Wisconsin,135,Other,13
+2011,Wisconsin,135,Unarmed,21
+2011,Wyoming,15,Firearms,11
+2011,Wyoming,15,Cutting,0
+2011,Wyoming,15,Other,1
+2011,Wyoming,15,Unarmed,3
+2012,Alaska,29,Firearms,11
+2012,Alaska,29,Cutting,9
+2012,Alaska,29,Other,7
+2012,Alaska,29,Unarmed,2
+2012,Arizona,321,Firearms,211
+2012,Arizona,321,Cutting,40
+2012,Arizona,321,Other,58
+2012,Arizona,321,Unarmed,12
+2012,Arkansas,166,Firearms,108
+2012,Arkansas,166,Cutting,28
+2012,Arkansas,166,Other,25
+2012,Arkansas,166,Unarmed,5
+2012,California,1879,Firearms,1304
+2012,California,1879,Cutting,261
+2012,California,1879,Other,227
+2012,California,1879,Unarmed,87
+2012,Colorado,160,Firearms,92
+2012,Colorado,160,Cutting,29
+2012,Colorado,160,Other,22
+2012,Colorado,160,Unarmed,17
+2012,Connecticut,146,Firearms,112
+2012,Connecticut,146,Cutting,17
+2012,Connecticut,146,Other,14
+2012,Connecticut,146,Unarmed,3
+2012,Delaware,57,Firearms,41
+2012,Delaware,57,Cutting,5
+2012,Delaware,57,Other,8
+2012,Delaware,57,Unarmed,3
+2012,Georgia,541,Firearms,390
+2012,Georgia,541,Cutting,57
+2012,Georgia,541,Other,85
+2012,Georgia,541,Unarmed,9
+2012,Guam,2,Firearms,0
+2012,Guam,2,Cutting,0
+2012,Guam,2,Other,2
+2012,Guam,2,Unarmed,0
+2012,Hawaii,13,Firearms,3
+2012,Hawaii,13,Cutting,2
+2012,Hawaii,13,Other,4
+2012,Hawaii,13,Unarmed,4
+2012,Idaho,26,Firearms,17
+2012,Idaho,26,Cutting,3
+2012,Idaho,26,Other,4
+2012,Idaho,26,Unarmed,2
+2012,Illinois,509,Firearms,439
+2012,Illinois,509,Cutting,39
+2012,Illinois,509,Other,19
+2012,Illinois,509,Unarmed,12
+2012,Indiana,275,Firearms,205
+2012,Indiana,275,Cutting,20
+2012,Indiana,275,Other,37
+2012,Indiana,275,Unarmed,13
+2012,Iowa,44,Firearms,25
+2012,Iowa,44,Cutting,1
+2012,Iowa,44,Other,12
+2012,Iowa,44,Unarmed,6
+2012,Kansas,84,Firearms,50
+2012,Kansas,84,Cutting,12
+2012,Kansas,84,Other,13
+2012,Kansas,84,Unarmed,9
+2012,Kentucky,192,Firearms,122
+2012,Kentucky,192,Cutting,28
+2012,Kentucky,192,Other,29
+2012,Kentucky,192,Unarmed,13
+2012,Louisiana,455,Firearms,370
+2012,Louisiana,455,Cutting,35
+2012,Louisiana,455,Other,27
+2012,Louisiana,455,Unarmed,23
+2012,Maine,25,Firearms,14
+2012,Maine,25,Cutting,7
+2012,Maine,25,Other,1
+2012,Maine,25,Unarmed,3
+2012,Maryland,365,Firearms,277
+2012,Maryland,365,Cutting,45
+2012,Maryland,365,Other,28
+2012,Maryland,365,Unarmed,15
+2012,Massachusetts,121,Firearms,70
+2012,Massachusetts,121,Cutting,33
+2012,Massachusetts,121,Other,12
+2012,Massachusetts,121,Unarmed,6
+2012,Michigan,682,Firearms,536
+2012,Michigan,682,Cutting,48
+2012,Michigan,682,Other,61
+2012,Michigan,682,Unarmed,37
+2012,Minnesota,89,Firearms,41
+2012,Minnesota,89,Cutting,21
+2012,Minnesota,89,Other,16
+2012,Minnesota,89,Unarmed,11
+2012,Mississippi,174,Firearms,132
+2012,Mississippi,174,Cutting,13
+2012,Mississippi,174,Other,21
+2012,Mississippi,174,Unarmed,8
+2012,Missouri,389,Firearms,283
+2012,Missouri,389,Cutting,29
+2012,Missouri,389,Other,64
+2012,Missouri,389,Unarmed,13
+2012,Montana,22,Firearms,11
+2012,Montana,22,Cutting,6
+2012,Montana,22,Other,3
+2012,Montana,22,Unarmed,2
+2012,Nebraska,52,Firearms,42
+2012,Nebraska,52,Cutting,5
+2012,Nebraska,52,Other,4
+2012,Nebraska,52,Unarmed,1
+2012,Nevada,116,Firearms,70
+2012,Nevada,116,Cutting,17
+2012,Nevada,116,Other,23
+2012,Nevada,116,Unarmed,6
+2012,New Hampshire,14,Firearms,9
+2012,New Hampshire,14,Cutting,3
+2012,New Hampshire,14,Other,2
+2012,New Hampshire,14,Unarmed,0
+2012,New Jersey,385,Firearms,273
+2012,New Jersey,385,Cutting,63
+2012,New Jersey,385,Other,32
+2012,New Jersey,385,Unarmed,17
+2012,New Mexico,109,Firearms,67
+2012,New Mexico,109,Cutting,14
+2012,New Mexico,109,Other,21
+2012,New Mexico,109,Unarmed,7
+2012,New York,682,Firearms,407
+2012,New York,682,Cutting,126
+2012,New York,682,Other,126
+2012,New York,682,Unarmed,23
+2012,North Carolina,470,Firearms,309
+2012,North Carolina,470,Cutting,43
+2012,North Carolina,470,Other,77
+2012,North Carolina,470,Unarmed,41
+2012,North Dakota,16,Firearms,4
+2012,North Dakota,16,Cutting,2
+2012,North Dakota,16,Other,8
+2012,North Dakota,16,Unarmed,2
+2012,Ohio,410,Firearms,278
+2012,Ohio,410,Cutting,34
+2012,Ohio,410,Other,74
+2012,Ohio,410,Unarmed,24
+2012,Oklahoma,212,Firearms,149
+2012,Oklahoma,212,Cutting,24
+2012,Oklahoma,212,Other,18
+2012,Oklahoma,212,Unarmed,21
+2012,Oregon,81,Firearms,42
+2012,Oregon,81,Cutting,17
+2012,Oregon,81,Other,20
+2012,Oregon,81,Unarmed,2
+2012,Pennsylvania,684,Firearms,522
+2012,Pennsylvania,684,Cutting,68
+2012,Pennsylvania,684,Other,74
+2012,Pennsylvania,684,Unarmed,20
+2012,Rhode Island,34,Firearms,19
+2012,Rhode Island,34,Cutting,5
+2012,Rhode Island,34,Other,6
+2012,Rhode Island,34,Unarmed,4
+2012,South Carolina,324,Firearms,237
+2012,South Carolina,324,Cutting,31
+2012,South Carolina,324,Other,45
+2012,South Carolina,324,Unarmed,11
+2012,South Dakota,14,Firearms,4
+2012,South Dakota,14,Cutting,1
+2012,South Dakota,14,Other,4
+2012,South Dakota,14,Unarmed,5
+2012,Tennessee,387,Firearms,254
+2012,Tennessee,387,Cutting,37
+2012,Tennessee,387,Other,73
+2012,Tennessee,387,Unarmed,23
+2012,Texas,1141,Firearms,745
+2012,Texas,1141,Cutting,173
+2012,Texas,1141,Other,122
+2012,Texas,1141,Unarmed,101
+2012,Utah,49,Firearms,29
+2012,Utah,49,Cutting,10
+2012,Utah,49,Other,6
+2012,Utah,49,Unarmed,4
+2012,Vermont,8,Firearms,2
+2012,Vermont,8,Cutting,2
+2012,Vermont,8,Other,3
+2012,Vermont,8,Unarmed,1
+2012,Virgin Islands,52,Firearms,42
+2012,Virgin Islands,52,Cutting,6
+2012,Virgin Islands,52,Other,4
+2012,Virgin Islands,52,Unarmed,0
+2012,Virginia,314,Firearms,220
+2012,Virginia,314,Cutting,37
+2012,Virginia,314,Other,38
+2012,Virginia,314,Unarmed,19
+2012,Washington,194,Firearms,106
+2012,Washington,194,Cutting,43
+2012,Washington,194,Other,33
+2012,Washington,194,Unarmed,12
+2012,West Virginia,66,Firearms,47
+2012,West Virginia,66,Cutting,7
+2012,West Virginia,66,Other,7
+2012,West Virginia,66,Unarmed,5
+2012,Wisconsin,169,Firearms,108
+2012,Wisconsin,169,Cutting,30
+2012,Wisconsin,169,Other,21
+2012,Wisconsin,169,Unarmed,10
+2012,Wyoming,14,Firearms,5
+2012,Wyoming,14,Cutting,3
+2012,Wyoming,14,Other,2
+2012,Wyoming,14,Unarmed,4
+2013,Alaska,34,Firearms,12
+2013,Alaska,34,Cutting,5
+2013,Alaska,34,Other,13
+2013,Alaska,34,Unarmed,4
+2013,Arizona,304,Firearms,184
+2013,Arizona,304,Cutting,56
+2013,Arizona,304,Other,55
+2013,Arizona,304,Unarmed,9
+2013,Arkansas,154,Firearms,110
+2013,Arkansas,154,Cutting,22
+2013,Arkansas,154,Other,17
+2013,Arkansas,154,Unarmed,5
+2013,California,1745,Firearms,1224
+2013,California,1745,Cutting,238
+2013,California,1745,Other,191
+2013,California,1745,Unarmed,92
+2013,Colorado,174,Firearms,88
+2013,Colorado,174,Cutting,34
+2013,Colorado,174,Other,39
+2013,Colorado,174,Unarmed,13
+2013,Connecticut,86,Firearms,60
+2013,Connecticut,86,Cutting,12
+2013,Connecticut,86,Other,5
+2013,Connecticut,86,Unarmed,9
+2013,Delaware,39,Firearms,33
+2013,Delaware,39,Cutting,4
+2013,Delaware,39,Other,2
+2013,Delaware,39,Unarmed,0
+2013,District of Columbia,103,Firearms,81
+2013,District of Columbia,103,Cutting,12
+2013,District of Columbia,103,Other,5
+2013,District of Columbia,103,Unarmed,5
+2013,Georgia,534,Firearms,411
+2013,Georgia,534,Cutting,40
+2013,Georgia,534,Other,74
+2013,Georgia,534,Unarmed,9
+2013,Guam,9,Firearms,2
+2013,Guam,9,Cutting,4
+2013,Guam,9,Other,1
+2013,Guam,9,Unarmed,2
+2013,Hawaii,9,Firearms,6
+2013,Hawaii,9,Cutting,2
+2013,Hawaii,9,Other,1
+2013,Hawaii,9,Unarmed,0
+2013,Idaho,26,Firearms,15
+2013,Idaho,26,Cutting,2
+2013,Idaho,26,Other,5
+2013,Idaho,26,Unarmed,4
+2013,Illinois,433,Firearms,364
+2013,Illinois,433,Cutting,41
+2013,Illinois,433,Other,19
+2013,Illinois,433,Unarmed,9
+2013,Indiana,311,Firearms,238
+2013,Indiana,311,Cutting,19
+2013,Indiana,311,Other,41
+2013,Indiana,311,Unarmed,13
+2013,Iowa,42,Firearms,18
+2013,Iowa,42,Cutting,13
+2013,Iowa,42,Other,6
+2013,Iowa,42,Unarmed,5
+2013,Kansas,112,Firearms,78
+2013,Kansas,112,Cutting,8
+2013,Kansas,112,Other,16
+2013,Kansas,112,Unarmed,10
+2013,Kentucky,165,Firearms,111
+2013,Kentucky,165,Cutting,23
+2013,Kentucky,165,Other,22
+2013,Kentucky,165,Unarmed,9
+2013,Louisiana,453,Firearms,356
+2013,Louisiana,453,Cutting,34
+2013,Louisiana,453,Other,40
+2013,Louisiana,453,Unarmed,23
+2013,Maine,24,Firearms,12
+2013,Maine,24,Cutting,5
+2013,Maine,24,Other,2
+2013,Maine,24,Unarmed,5
+2013,Maryland,379,Firearms,268
+2013,Maryland,379,Cutting,57
+2013,Maryland,379,Other,29
+2013,Maryland,379,Unarmed,25
+2013,Massachusetts,135,Firearms,78
+2013,Massachusetts,135,Cutting,25
+2013,Massachusetts,135,Other,25
+2013,Massachusetts,135,Unarmed,7
+2013,Michigan,625,Firearms,440
+2013,Michigan,625,Cutting,43
+2013,Michigan,625,Other,106
+2013,Michigan,625,Unarmed,36
+2013,Minnesota,110,Firearms,60
+2013,Minnesota,110,Cutting,17
+2013,Minnesota,110,Other,24
+2013,Minnesota,110,Unarmed,9
+2013,Mississippi,142,Firearms,110
+2013,Mississippi,142,Cutting,9
+2013,Mississippi,142,Other,14
+2013,Mississippi,142,Unarmed,9
+2013,Missouri,371,Firearms,273
+2013,Missouri,371,Cutting,41
+2013,Missouri,371,Other,45
+2013,Missouri,371,Unarmed,12
+2013,Montana,15,Firearms,9
+2013,Montana,15,Cutting,3
+2013,Montana,15,Other,2
+2013,Montana,15,Unarmed,1
+2013,Nebraska,57,Firearms,39
+2013,Nebraska,57,Cutting,8
+2013,Nebraska,57,Other,7
+2013,Nebraska,57,Unarmed,3
+2013,Nevada,157,Firearms,87
+2013,Nevada,157,Cutting,24
+2013,Nevada,157,Other,36
+2013,Nevada,157,Unarmed,10
+2013,New Hampshire,21,Firearms,5
+2013,New Hampshire,21,Cutting,6
+2013,New Hampshire,21,Other,5
+2013,New Hampshire,21,Unarmed,5
+2013,New Jersey,401,Firearms,291
+2013,New Jersey,401,Cutting,53
+2013,New Jersey,401,Other,37
+2013,New Jersey,401,Unarmed,20
+2013,New Mexico,106,Firearms,59
+2013,New Mexico,106,Cutting,19
+2013,New Mexico,106,Other,20
+2013,New Mexico,106,Unarmed,8
+2013,New York,648,Firearms,362
+2013,New York,648,Cutting,136
+2013,New York,648,Other,113
+2013,New York,648,Unarmed,37
+2013,North Carolina,452,Firearms,315
+2013,North Carolina,452,Cutting,50
+2013,North Carolina,452,Other,55
+2013,North Carolina,452,Unarmed,32
+2013,North Dakota,11,Firearms,4
+2013,North Dakota,11,Cutting,4
+2013,North Dakota,11,Other,3
+2013,North Dakota,11,Unarmed,0
+2013,Ohio,434,Firearms,309
+2013,Ohio,434,Cutting,37
+2013,Ohio,434,Other,69
+2013,Ohio,434,Unarmed,19
+2013,Oklahoma,191,Firearms,127
+2013,Oklahoma,191,Cutting,24
+2013,Oklahoma,191,Other,24
+2013,Oklahoma,191,Unarmed,16
+2013,Oregon,78,Firearms,43
+2013,Oregon,78,Cutting,12
+2013,Oregon,78,Other,18
+2013,Oregon,78,Unarmed,5
+2013,Pennsylvania,594,Firearms,440
+2013,Pennsylvania,594,Cutting,52
+2013,Pennsylvania,594,Other,74
+2013,Pennsylvania,594,Unarmed,28
+2013,Rhode Island,31,Firearms,18
+2013,Rhode Island,31,Cutting,5
+2013,Rhode Island,31,Other,6
+2013,Rhode Island,31,Unarmed,2
+2013,South Carolina,296,Firearms,224
+2013,South Carolina,296,Cutting,20
+2013,South Carolina,296,Other,33
+2013,South Carolina,296,Unarmed,19
+2013,South Dakota,12,Firearms,3
+2013,South Dakota,12,Cutting,1
+2013,South Dakota,12,Other,4
+2013,South Dakota,12,Unarmed,4
+2013,Tennessee,327,Firearms,223
+2013,Tennessee,327,Cutting,18
+2013,Tennessee,327,Other,67
+2013,Tennessee,327,Unarmed,19
+2013,Texas,1133,Firearms,760
+2013,Texas,1133,Cutting,164
+2013,Texas,1133,Other,129
+2013,Texas,1133,Unarmed,80
+2013,Utah,49,Firearms,31
+2013,Utah,49,Cutting,6
+2013,Utah,49,Other,7
+2013,Utah,49,Unarmed,5
+2013,Vermont,9,Firearms,5
+2013,Vermont,9,Cutting,0
+2013,Vermont,9,Other,1
+2013,Vermont,9,Unarmed,3
+2013,Virgin Islands,14,Firearms,14
+2013,Virgin Islands,14,Cutting,0
+2013,Virgin Islands,14,Other,0
+2013,Virgin Islands,14,Unarmed,0
+2013,Virginia,315,Firearms,225
+2013,Virginia,315,Cutting,30
+2013,Virginia,315,Other,40
+2013,Virginia,315,Unarmed,20
+2013,Washington,155,Firearms,86
+2013,Washington,155,Cutting,29
+2013,Washington,155,Other,27
+2013,Washington,155,Unarmed,13
+2013,West Virginia,54,Firearms,30
+2013,West Virginia,54,Cutting,2
+2013,West Virginia,54,Other,20
+2013,West Virginia,54,Unarmed,2
+2013,Wisconsin,157,Firearms,103
+2013,Wisconsin,157,Cutting,18
+2013,Wisconsin,157,Other,24
+2013,Wisconsin,157,Unarmed,12
+2013,Wyoming,15,Firearms,9
+2013,Wyoming,15,Cutting,2
+2013,Wyoming,15,Other,4
+2013,Wyoming,15,Unarmed,0
+2014,Alaska,41,Firearms,22
+2014,Alaska,41,Cutting,8
+2014,Alaska,41,Other,5
+2014,Alaska,41,Unarmed,6
+2014,Arizona,258,Firearms,153
+2014,Arizona,258,Cutting,33
+2014,Arizona,258,Other,66
+2014,Arizona,258,Unarmed,6
+2014,Arkansas,154,Firearms,111
+2014,Arkansas,154,Cutting,17
+2014,Arkansas,154,Other,23
+2014,Arkansas,154,Unarmed,3
+2014,California,1697,Firearms,1169
+2014,California,1697,Cutting,256
+2014,California,1697,Other,175
+2014,California,1697,Unarmed,97
+2014,Colorado,149,Firearms,91
+2014,Colorado,149,Cutting,25
+2014,Colorado,149,Other,20
+2014,Colorado,149,Unarmed,13
+2014,Connecticut,83,Firearms,51
+2014,Connecticut,83,Cutting,17
+2014,Connecticut,83,Other,5
+2014,Connecticut,83,Unarmed,10
+2014,Delaware,54,Firearms,39
+2014,Delaware,54,Cutting,4
+2014,Delaware,54,Other,3
+2014,Delaware,54,Unarmed,8
+2014,District of Columbia,105,Firearms,73
+2014,District of Columbia,105,Cutting,17
+2014,District of Columbia,105,Other,10
+2014,District of Columbia,105,Unarmed,5
+2014,Georgia,540,Firearms,416
+2014,Georgia,540,Cutting,55
+2014,Georgia,540,Other,63
+2014,Georgia,540,Unarmed,6
+2014,Guam,6,Firearms,0
+2014,Guam,6,Cutting,4
+2014,Guam,6,Other,1
+2014,Guam,6,Unarmed,1
+2014,Hawaii,5,Firearms,1
+2014,Hawaii,5,Cutting,0
+2014,Hawaii,5,Other,3
+2014,Hawaii,5,Unarmed,1
+2014,Idaho,30,Firearms,15
+2014,Idaho,30,Cutting,6
+2014,Idaho,30,Other,4
+2014,Idaho,30,Unarmed,5
+2014,Illinois,428,Firearms,371
+2014,Illinois,428,Cutting,30
+2014,Illinois,428,Other,14
+2014,Illinois,428,Unarmed,13
+2014,Indiana,299,Firearms,222
+2014,Indiana,299,Cutting,26
+2014,Indiana,299,Other,37
+2014,Indiana,299,Unarmed,14
+2014,Iowa,55,Firearms,27
+2014,Iowa,55,Cutting,8
+2014,Iowa,55,Other,12
+2014,Iowa,55,Unarmed,8
+2014,Kansas,89,Firearms,56
+2014,Kansas,89,Cutting,13
+2014,Kansas,89,Other,12
+2014,Kansas,89,Unarmed,8
+2014,Kentucky,160,Firearms,112
+2014,Kentucky,160,Cutting,16
+2014,Kentucky,160,Other,26
+2014,Kentucky,160,Unarmed,6
+2014,Louisiana,407,Firearms,319
+2014,Louisiana,407,Cutting,46
+2014,Louisiana,407,Other,30
+2014,Louisiana,407,Unarmed,12
+2014,Maine,21,Firearms,6
+2014,Maine,21,Cutting,4
+2014,Maine,21,Other,8
+2014,Maine,21,Unarmed,3
+2014,Maryland,309,Firearms,208
+2014,Maryland,309,Cutting,67
+2014,Maryland,309,Other,20
+2014,Maryland,309,Unarmed,14
+2014,Massachusetts,131,Firearms,81
+2014,Massachusetts,131,Cutting,34
+2014,Massachusetts,131,Other,13
+2014,Massachusetts,131,Unarmed,3
+2014,Michigan,531,Firearms,342
+2014,Michigan,531,Cutting,60
+2014,Michigan,531,Other,102
+2014,Michigan,531,Unarmed,27
+2014,Minnesota,82,Firearms,42
+2014,Minnesota,82,Cutting,10
+2014,Minnesota,82,Other,20
+2014,Minnesota,82,Unarmed,10
+2014,Mississippi,161,Firearms,122
+2014,Mississippi,161,Cutting,14
+2014,Mississippi,161,Other,17
+2014,Mississippi,161,Unarmed,8
+2014,Missouri,402,Firearms,314
+2014,Missouri,402,Cutting,35
+2014,Missouri,402,Other,43
+2014,Missouri,402,Unarmed,10
+2014,Montana,27,Firearms,17
+2014,Montana,27,Cutting,5
+2014,Montana,27,Other,3
+2014,Montana,27,Unarmed,2
+2014,Nebraska,51,Firearms,32
+2014,Nebraska,51,Cutting,7
+2014,Nebraska,51,Other,8
+2014,Nebraska,51,Unarmed,4
+2014,Nevada,169,Firearms,94
+2014,Nevada,169,Cutting,34
+2014,Nevada,169,Other,32
+2014,Nevada,169,Unarmed,9
+2014,New Hampshire,12,Firearms,6
+2014,New Hampshire,12,Cutting,2
+2014,New Hampshire,12,Other,3
+2014,New Hampshire,12,Unarmed,1
+2014,New Jersey,337,Firearms,243
+2014,New Jersey,337,Cutting,42
+2014,New Jersey,337,Other,34
+2014,New Jersey,337,Unarmed,18
+2014,New Mexico,96,Firearms,53
+2014,New Mexico,96,Cutting,22
+2014,New Mexico,96,Other,19
+2014,New Mexico,96,Unarmed,2
+2014,New York,613,Firearms,344
+2014,New York,613,Cutting,139
+2014,New York,613,Other,103
+2014,New York,613,Unarmed,27
+2014,North Carolina,469,Firearms,318
+2014,North Carolina,469,Cutting,39
+2014,North Carolina,469,Other,63
+2014,North Carolina,469,Unarmed,49
+2014,North Dakota,14,Firearms,6
+2014,North Dakota,14,Cutting,3
+2014,North Dakota,14,Other,3
+2014,North Dakota,14,Unarmed,2
+2014,Ohio,436,Firearms,277
+2014,Ohio,436,Cutting,37
+2014,Ohio,436,Other,102
+2014,Ohio,436,Unarmed,20
+2014,Oklahoma,167,Firearms,104
+2014,Oklahoma,167,Cutting,29
+2014,Oklahoma,167,Other,28
+2014,Oklahoma,167,Unarmed,6
+2014,Oregon,73,Firearms,39
+2014,Oregon,73,Cutting,14
+2014,Oregon,73,Other,18
+2014,Oregon,73,Unarmed,2
+2014,Pennsylvania,609,Firearms,453
+2014,Pennsylvania,609,Cutting,63
+2014,Pennsylvania,609,Other,78
+2014,Pennsylvania,609,Unarmed,15
+2014,Rhode Island,25,Firearms,12
+2014,Rhode Island,25,Cutting,7
+2014,Rhode Island,25,Other,5
+2014,Rhode Island,25,Unarmed,1
+2014,South Carolina,301,Firearms,219
+2014,South Carolina,301,Cutting,31
+2014,South Carolina,301,Other,34
+2014,South Carolina,301,Unarmed,17
+2014,South Dakota,15,Firearms,6
+2014,South Dakota,15,Cutting,1
+2014,South Dakota,15,Other,5
+2014,South Dakota,15,Unarmed,3
+2014,Tennessee,370,Firearms,246
+2014,Tennessee,370,Cutting,43
+2014,Tennessee,370,Other,60
+2014,Tennessee,370,Unarmed,21
+2014,Texas,1141,Firearms,765
+2014,Texas,1141,Cutting,145
+2014,Texas,1141,Other,128
+2014,Texas,1141,Unarmed,103
+2014,Utah,61,Firearms,36
+2014,Utah,61,Cutting,6
+2014,Utah,61,Other,9
+2014,Utah,61,Unarmed,10
+2014,Vermont,10,Firearms,6
+2014,Vermont,10,Cutting,1
+2014,Vermont,10,Other,1
+2014,Vermont,10,Unarmed,2
+2014,Virgin Islands,25,Firearms,21
+2014,Virgin Islands,25,Cutting,2
+2014,Virgin Islands,25,Other,2
+2014,Virgin Islands,25,Unarmed,0
+2014,Virginia,337,Firearms,228
+2014,Virginia,337,Cutting,35
+2014,Virginia,337,Other,53
+2014,Virginia,337,Unarmed,21
+2014,Washington,172,Firearms,94
+2014,Washington,172,Cutting,25
+2014,Washington,172,Other,42
+2014,Washington,172,Unarmed,11
+2014,West Virginia,62,Firearms,16
+2014,West Virginia,62,Cutting,10
+2014,West Virginia,62,Other,30
+2014,West Virginia,62,Unarmed,6
+2014,Wisconsin,158,Firearms,117
+2014,Wisconsin,158,Cutting,19
+2014,Wisconsin,158,Other,13
+2014,Wisconsin,158,Unarmed,9
+2014,Wyoming,13,Firearms,8
+2014,Wyoming,13,Cutting,1
+2014,Wyoming,13,Other,2
+2014,Wyoming,13,Unarmed,2
+2015,Alaska,57,Firearms,39
+2015,Alaska,57,Cutting,7
+2015,Alaska,57,Other,8
+2015,Alaska,57,Unarmed,3
+2015,Arizona,278,Firearms,171
+2015,Arizona,278,Cutting,42
+2015,Arizona,278,Other,55
+2015,Arizona,278,Unarmed,10
+2015,Arkansas,164,Firearms,110
+2015,Arkansas,164,Cutting,18
+2015,Arkansas,164,Other,30
+2015,Arkansas,164,Unarmed,6
+2015,California,1861,Firearms,1275
+2015,California,1861,Cutting,263
+2015,California,1861,Other,233
+2015,California,1861,Unarmed,90
+2015,Colorado,176,Firearms,115
+2015,Colorado,176,Cutting,25
+2015,Colorado,176,Other,19
+2015,Colorado,176,Unarmed,17
+2015,Connecticut,107,Firearms,73
+2015,Connecticut,107,Cutting,16
+2015,Connecticut,107,Other,9
+2015,Connecticut,107,Unarmed,9
+2015,Delaware,63,Firearms,52
+2015,Delaware,63,Cutting,6
+2015,Delaware,63,Other,3
+2015,Delaware,63,Unarmed,2
+2015,District of Columbia,162,Firearms,121
+2015,District of Columbia,162,Cutting,28
+2015,District of Columbia,162,Other,8
+2015,District of Columbia,162,Unarmed,5
+2015,Georgia,565,Firearms,464
+2015,Georgia,565,Cutting,38
+2015,Georgia,565,Other,60
+2015,Georgia,565,Unarmed,3
+2015,Guam,6,Firearms,3
+2015,Guam,6,Cutting,1
+2015,Guam,6,Other,2
+2015,Guam,6,Unarmed,0
+2015,Hawaii,19,Firearms,4
+2015,Hawaii,19,Cutting,6
+2015,Hawaii,19,Other,2
+2015,Hawaii,19,Unarmed,7
+2015,Idaho,30,Firearms,24
+2015,Idaho,30,Cutting,3
+2015,Idaho,30,Other,3
+2015,Idaho,30,Unarmed,0
+2015,Illinois,497,Firearms,440
+2015,Illinois,497,Cutting,29
+2015,Illinois,497,Other,25
+2015,Illinois,497,Unarmed,3
+2015,Indiana,272,Firearms,209
+2015,Indiana,272,Cutting,22
+2015,Indiana,272,Other,29
+2015,Indiana,272,Unarmed,12
+2015,Iowa,72,Firearms,49
+2015,Iowa,72,Cutting,10
+2015,Iowa,72,Other,5
+2015,Iowa,72,Unarmed,8
+2015,Kansas,125,Firearms,91
+2015,Kansas,125,Cutting,9
+2015,Kansas,125,Other,14
+2015,Kansas,125,Unarmed,11
+2015,Kentucky,209,Firearms,141
+2015,Kentucky,209,Cutting,30
+2015,Kentucky,209,Other,26
+2015,Kentucky,209,Unarmed,12
+2015,Louisiana,474,Firearms,379
+2015,Louisiana,474,Cutting,46
+2015,Louisiana,474,Other,43
+2015,Louisiana,474,Unarmed,6
+2015,Maine,23,Firearms,16
+2015,Maine,23,Cutting,3
+2015,Maine,23,Other,1
+2015,Maine,23,Unarmed,3
+2015,Maryland,372,Firearms,279
+2015,Maryland,372,Cutting,44
+2015,Maryland,372,Other,33
+2015,Maryland,372,Unarmed,16
+2015,Massachusetts,126,Firearms,81
+2015,Massachusetts,126,Cutting,27
+2015,Massachusetts,126,Other,11
+2015,Massachusetts,126,Unarmed,7
+2015,Michigan,571,Firearms,389
+2015,Michigan,571,Cutting,52
+2015,Michigan,571,Other,103
+2015,Michigan,571,Unarmed,27
+2015,Minnesota,133,Firearms,79
+2015,Minnesota,133,Cutting,21
+2015,Minnesota,133,Other,23
+2015,Minnesota,133,Unarmed,10
+2015,Mississippi,159,Firearms,126
+2015,Mississippi,159,Cutting,11
+2015,Mississippi,159,Other,14
+2015,Mississippi,159,Unarmed,8
+2015,Missouri,499,Firearms,418
+2015,Missouri,499,Cutting,26
+2015,Missouri,499,Other,40
+2015,Missouri,499,Unarmed,15
+2015,Montana,36,Firearms,18
+2015,Montana,36,Cutting,8
+2015,Montana,36,Other,3
+2015,Montana,36,Unarmed,7
+2015,Nebraska,61,Firearms,43
+2015,Nebraska,61,Cutting,9
+2015,Nebraska,61,Other,8
+2015,Nebraska,61,Unarmed,1
+2015,Nevada,177,Firearms,113
+2015,Nevada,177,Cutting,25
+2015,Nevada,177,Other,30
+2015,Nevada,177,Unarmed,9
+2015,New Hampshire,14,Firearms,8
+2015,New Hampshire,14,Cutting,6
+2015,New Hampshire,14,Other,0
+2015,New Hampshire,14,Unarmed,0
+2015,New Jersey,353,Firearms,255
+2015,New Jersey,353,Cutting,38
+2015,New Jersey,353,Other,41
+2015,New Jersey,353,Unarmed,19
+2015,New Mexico,94,Firearms,56
+2015,New Mexico,94,Cutting,18
+2015,New Mexico,94,Other,19
+2015,New Mexico,94,Unarmed,1
+2015,New York,611,Firearms,383
+2015,New York,611,Cutting,104
+2015,New York,611,Other,104
+2015,New York,611,Unarmed,20
+2015,North Carolina,506,Firearms,353
+2015,North Carolina,506,Cutting,41
+2015,North Carolina,506,Other,77
+2015,North Carolina,506,Unarmed,35
+2015,North Dakota,17,Firearms,9
+2015,North Dakota,17,Cutting,3
+2015,North Dakota,17,Other,1
+2015,North Dakota,17,Unarmed,4
+2015,Ohio,480,Firearms,316
+2015,Ohio,480,Cutting,39
+2015,Ohio,480,Other,103
+2015,Ohio,480,Unarmed,22
+2015,Oklahoma,233,Firearms,149
+2015,Oklahoma,233,Cutting,33
+2015,Oklahoma,233,Other,32
+2015,Oklahoma,233,Unarmed,19
+2015,Oregon,71,Firearms,34
+2015,Oregon,71,Cutting,12
+2015,Oregon,71,Other,22
+2015,Oregon,71,Unarmed,3
+2015,Pennsylvania,651,Firearms,497
+2015,Pennsylvania,651,Cutting,65
+2015,Pennsylvania,651,Other,67
+2015,Pennsylvania,651,Unarmed,22
+2015,Rhode Island,27,Firearms,10
+2015,Rhode Island,27,Cutting,10
+2015,Rhode Island,27,Other,6
+2015,Rhode Island,27,Unarmed,1
+2015,South Carolina,394,Firearms,312
+2015,South Carolina,394,Cutting,34
+2015,South Carolina,394,Other,34
+2015,South Carolina,394,Unarmed,14
+2015,South Dakota,27,Firearms,12
+2015,South Dakota,27,Cutting,8
+2015,South Dakota,27,Other,2
+2015,South Dakota,27,Unarmed,5
+2015,Tennessee,402,Firearms,297
+2015,Tennessee,402,Cutting,40
+2015,Tennessee,402,Other,51
+2015,Tennessee,402,Unarmed,14
+2015,Texas,1276,Firearms,906
+2015,Texas,1276,Cutting,146
+2015,Texas,1276,Other,135
+2015,Texas,1276,Unarmed,89
+2015,U.S. Virgin Islands,35,Firearms,26
+2015,U.S. Virgin Islands,35,Cutting,3
+2015,U.S. Virgin Islands,35,Other,6
+2015,U.S. Virgin Islands,35,Unarmed,0
+2015,Utah,54,Firearms,34
+2015,Utah,54,Cutting,5
+2015,Utah,54,Other,6
+2015,Utah,54,Unarmed,9
+2015,Vermont,10,Firearms,8
+2015,Vermont,10,Cutting,0
+2015,Vermont,10,Other,1
+2015,Vermont,10,Unarmed,1
+2015,Virginia,383,Firearms,275
+2015,Virginia,383,Cutting,51
+2015,Virginia,383,Other,43
+2015,Virginia,383,Unarmed,14
+2015,Washington,209,Firearms,141
+2015,Washington,209,Cutting,18
+2015,Washington,209,Other,36
+2015,Washington,209,Unarmed,14
+2015,West Virginia,57,Firearms,30
+2015,West Virginia,57,Cutting,6
+2015,West Virginia,57,Other,17
+2015,West Virginia,57,Unarmed,4
+2015,Wisconsin,238,Firearms,170
+2015,Wisconsin,238,Cutting,37
+2015,Wisconsin,238,Other,25
+2015,Wisconsin,238,Unarmed,6
+2015,Wyoming,16,Firearms,10
+2015,Wyoming,16,Cutting,2
+2015,Wyoming,16,Other,3
+2015,Wyoming,16,Unarmed,1
+2016,Alaska,52,Firearms,43
+2016,Alaska,52,Cutting,3
+2016,Alaska,52,Other,6
+2016,Alaska,52,Unarmed,0
+2016,Arizona,336,Firearms,227
+2016,Arizona,336,Cutting,40
+2016,Arizona,336,Other,63
+2016,Arizona,336,Unarmed,6
+2016,Arkansas,209,Firearms,151
+2016,Arkansas,209,Cutting,25
+2016,Arkansas,209,Other,25
+2016,Arkansas,209,Unarmed,8
+2016,California,1930,Firearms,1368
+2016,California,1930,Cutting,280
+2016,California,1930,Other,193
+2016,California,1930,Unarmed,89
+2016,Colorado,202,Firearms,136
+2016,Colorado,202,Cutting,27
+2016,Colorado,202,Other,28
+2016,Colorado,202,Unarmed,11
+2016,Connecticut,76,Firearms,48
+2016,Connecticut,76,Cutting,12
+2016,Connecticut,76,Other,13
+2016,Connecticut,76,Unarmed,3
+2016,Delaware,56,Firearms,41
+2016,Delaware,56,Cutting,7
+2016,Delaware,56,Other,8
+2016,Delaware,56,Unarmed,0
+2016,District of Columbia,136,Firearms,105
+2016,District of Columbia,136,Cutting,19
+2016,District of Columbia,136,Other,6
+2016,District of Columbia,136,Unarmed,6
+2016,Georgia,646,Firearms,522
+2016,Georgia,646,Cutting,48
+2016,Georgia,646,Other,71
+2016,Georgia,646,Unarmed,5
+2016,Hawaii,35,Firearms,19
+2016,Hawaii,35,Cutting,8
+2016,Hawaii,35,Other,5
+2016,Hawaii,35,Unarmed,3
+2016,Idaho,47,Firearms,17
+2016,Idaho,47,Cutting,5
+2016,Idaho,47,Other,21
+2016,Idaho,47,Unarmed,4
+2016,Illinois,941,Firearms,799
+2016,Illinois,941,Cutting,61
+2016,Illinois,941,Other,62
+2016,Illinois,941,Unarmed,19
+2016,Indiana,348,Firearms,287
+2016,Indiana,348,Cutting,19
+2016,Indiana,348,Other,32
+2016,Indiana,348,Unarmed,10
+2016,Iowa,71,Firearms,43
+2016,Iowa,71,Cutting,12
+2016,Iowa,71,Other,10
+2016,Iowa,71,Unarmed,6
+2016,Kansas,96,Firearms,61
+2016,Kansas,96,Cutting,8
+2016,Kansas,96,Other,19
+2016,Kansas,96,Unarmed,8
+2016,Kentucky,260,Firearms,207
+2016,Kentucky,260,Cutting,20
+2016,Kentucky,260,Other,22
+2016,Kentucky,260,Unarmed,11
+2016,Louisiana,543,Firearms,445
+2016,Louisiana,543,Cutting,33
+2016,Louisiana,543,Other,52
+2016,Louisiana,543,Unarmed,13
+2016,Maine,20,Firearms,11
+2016,Maine,20,Cutting,5
+2016,Maine,20,Other,2
+2016,Maine,20,Unarmed,2
+2016,Maryland,430,Firearms,328
+2016,Maryland,430,Cutting,52
+2016,Maryland,430,Other,29
+2016,Maryland,430,Unarmed,21
+2016,Massachusetts,132,Firearms,85
+2016,Massachusetts,132,Cutting,25
+2016,Massachusetts,132,Other,11
+2016,Massachusetts,132,Unarmed,11
+2016,Michigan,597,Firearms,443
+2016,Michigan,597,Cutting,45
+2016,Michigan,597,Other,89
+2016,Michigan,597,Unarmed,20
+2016,Minnesota,99,Firearms,60
+2016,Minnesota,99,Cutting,12
+2016,Minnesota,99,Other,19
+2016,Minnesota,99,Unarmed,8
+2016,Mississippi,154,Firearms,128
+2016,Mississippi,154,Cutting,4
+2016,Mississippi,154,Other,14
+2016,Mississippi,154,Unarmed,8
+2016,Missouri,535,Firearms,437
+2016,Missouri,535,Cutting,37
+2016,Missouri,535,Other,50
+2016,Missouri,535,Unarmed,11
+2016,Montana,34,Firearms,17
+2016,Montana,34,Cutting,9
+2016,Montana,34,Other,5
+2016,Montana,34,Unarmed,3
+2016,Nebraska,41,Firearms,30
+2016,Nebraska,41,Cutting,9
+2016,Nebraska,41,Other,2
+2016,Nebraska,41,Unarmed,0
+2016,Nevada,209,Firearms,141
+2016,Nevada,209,Cutting,20
+2016,Nevada,209,Other,42
+2016,Nevada,209,Unarmed,6
+2016,New Hampshire,16,Firearms,8
+2016,New Hampshire,16,Cutting,2
+2016,New Hampshire,16,Other,0
+2016,New Hampshire,16,Unarmed,6
+2016,New Jersey,372,Firearms,278
+2016,New Jersey,372,Cutting,29
+2016,New Jersey,372,Other,42
+2016,New Jersey,372,Unarmed,23
+2016,New Mexico,99,Firearms,60
+2016,New Mexico,99,Cutting,17
+2016,New Mexico,99,Other,19
+2016,New Mexico,99,Unarmed,3
+2016,New York,628,Firearms,367
+2016,New York,628,Cutting,130
+2016,New York,628,Other,99
+2016,New York,628,Unarmed,32
+2016,North Carolina,595,Firearms,421
+2016,North Carolina,595,Cutting,50
+2016,North Carolina,595,Other,80
+2016,North Carolina,595,Unarmed,44
+2016,North Dakota,14,Firearms,8
+2016,North Dakota,14,Cutting,3
+2016,North Dakota,14,Other,1
+2016,North Dakota,14,Unarmed,2
+2016,Ohio,627,Firearms,452
+2016,Ohio,627,Cutting,39
+2016,Ohio,627,Other,104
+2016,Ohio,627,Unarmed,32
+2016,Oklahoma,243,Firearms,171
+2016,Oklahoma,243,Cutting,31
+2016,Oklahoma,243,Other,23
+2016,Oklahoma,243,Unarmed,18
+2016,Oregon,100,Firearms,51
+2016,Oregon,100,Cutting,24
+2016,Oregon,100,Other,24
+2016,Oregon,100,Unarmed,1
+2016,Pennsylvania,655,Firearms,486
+2016,Pennsylvania,655,Cutting,68
+2016,Pennsylvania,655,Other,78
+2016,Pennsylvania,655,Unarmed,23
+2016,Rhode Island,29,Firearms,12
+2016,Rhode Island,29,Cutting,9
+2016,Rhode Island,29,Other,6
+2016,Rhode Island,29,Unarmed,2
+2016,South Carolina,363,Firearms,281
+2016,South Carolina,363,Cutting,29
+2016,South Carolina,363,Other,36
+2016,South Carolina,363,Unarmed,17
+2016,South Dakota,21,Firearms,7
+2016,South Dakota,21,Cutting,5
+2016,South Dakota,21,Other,4
+2016,South Dakota,21,Unarmed,5
+2016,Tennessee,486,Firearms,356
+2016,Tennessee,486,Cutting,49
+2016,Tennessee,486,Other,69
+2016,Tennessee,486,Unarmed,12
+2016,Texas,1459,Firearms,1066
+2016,Texas,1459,Cutting,175
+2016,Texas,1459,Other,136
+2016,Texas,1459,Unarmed,82
+2016,U.S. Virgin Islands,42,Firearms,34
+2016,U.S. Virgin Islands,42,Cutting,0
+2016,U.S. Virgin Islands,42,Other,8
+2016,U.S. Virgin Islands,42,Unarmed,0
+2016,Utah,71,Firearms,42
+2016,Utah,71,Cutting,6
+2016,Utah,71,Other,20
+2016,Utah,71,Unarmed,3
+2016,Vermont,14,Firearms,6
+2016,Vermont,14,Cutting,2
+2016,Vermont,14,Other,6
+2016,Vermont,14,Unarmed,0
+2016,Virginia,482,Firearms,352
+2016,Virginia,482,Cutting,33
+2016,Virginia,482,Other,67
+2016,Virginia,482,Unarmed,30
+2016,Washington,195,Firearms,127
+2016,Washington,195,Cutting,19
+2016,Washington,195,Other,38
+2016,Washington,195,Unarmed,11
+2016,West Virginia,76,Firearms,47
+2016,West Virginia,76,Cutting,4
+2016,West Virginia,76,Other,21
+2016,West Virginia,76,Unarmed,4
+2016,Wisconsin,226,Firearms,166
+2016,Wisconsin,226,Cutting,27
+2016,Wisconsin,226,Other,21
+2016,Wisconsin,226,Unarmed,12
+2016,Wyoming,19,Firearms,6
+2016,Wyoming,19,Cutting,8
+2016,Wyoming,19,Other,3
+2016,Wyoming,19,Unarmed,2
